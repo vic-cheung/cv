@@ -5,9 +5,17 @@ title: Philip Chung's CV
 # Philip Chung
 Resident Physician, University of Washington
 
+Department of Anesthesiology & Pain Medicine
+
+University of Washington, Box 356540
+
+1959 NE Pacific Street, BB-1469
+
+Seattle, WA 98195-6540
+
 <div id="webaddress">
-<a href="mailto:chungph@uw.edu"><i class="fas fa-home"></i>chungph[at]uw[dot]edu</a>
-| <a href="www.linkedin.com/in/philipchung">linked-in</a>
+<a href="mailto:chungph@uw.edu"><i class="fas fa-envelope"></i> chungph[at]uw[dot]edu</a>
+| <a href="www.linkedin.com/in/philipchung"><i class="fas fa-linkedin"></i> linked-in</a>
 </div>
 
 ## Currently
