@@ -1,15 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Philip Chung's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Philip Chung
+Resident Physician, University of Washington
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:chungph@uw.edu"><i class="fas fa-home"></i>chungph[at]uw[dot]edu</a>
+| <a href="www.linkedin.com/in/philipchung">linked-in</a>
 </div>
-
 
 ## Currently
 
@@ -19,11 +18,9 @@ Standing on the shoulders of giants
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
