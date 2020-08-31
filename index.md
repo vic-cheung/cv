@@ -33,18 +33,15 @@ B.S. Bioengineering
 
 `2019-present`
 __Anesthesiology Resident Physician (Research Track)__
-*University of Washington Affiliated Hospitals*
-Combined residency and research fellowship.  Training hospitals include University of Washington Medical Center, Harborview Medical Center, Seattle Children’s Hospital, Veterans Affairs Puget Sound Hospital.
+*University of Washington Affiliated Hospitals* <br>Combined residency and research fellowship.  Training hospitals include University of Washington Medical Center, Harborview Medical Center, Seattle Children’s Hospital, Veterans Affairs Puget Sound Hospital.
 
 `2017-2019`
 __Healthcare Technology Fellow__
-*Google Research*
-Worked with Healthcare AI team as medical specialist.  Developed machine learning models in the domain of natural language processing with the goal of [automating medical documentation creation and reducing physician burnout](https://research.googleblog.com/2017/11/understanding-medical-conversations.html)
+*Google Research* <br>Worked with Healthcare AI team as medical specialist.  Developed machine learning models in the domain of natural language processing with the goal of [automating medical documentation creation and reducing physician burnout](https://research.googleblog.com/2017/11/understanding-medical-conversations.html)
 
 `2014-2016`
 __Engineering Project Director__
-*UCSF Biodesign Lab*
-Lead a $3.5 million project funded by Bill & Melinda Gates Foundation to develop an intravaginal device for pregnant women to detect signs of imminent preterm birth before symptoms present.  This would enable triage to high-risk specialists and hospitals which is especially needed in remote areas with limited health care infrastructure.
+*UCSF Biodesign Lab* <br>Lead a $3.5 million project funded by Bill & Melinda Gates Foundation to develop an intravaginal device for pregnant women to detect signs of imminent preterm birth before symptoms present.  This would enable triage to high-risk specialists and hospitals which is especially needed in remote areas with limited health care infrastructure.
 
 
 ### Specialized in
