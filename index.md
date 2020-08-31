@@ -3,7 +3,7 @@ layout: cv
 title: Philip Chung's CV
 ---
 # Philip Chung
-Resident Physician, University of Washington
+Resident Physician - Anesthesiology, University of Washington
 
 <p>Department of Anesthesiology & Pain Medicine
 <br/>University of Washington, Box 356540
@@ -15,9 +15,37 @@ Resident Physician, University of Washington
 | <a href="https://www.linkedin.com/in/philipchung"><i class="fab fa-linkedin"></i> linked-in</a>
 </div>
 
-## Currently
+## Education
 
-Standing on the shoulders of giants
+`2014-2019`
+__University of California, San Francisco (UCSF)__
+M.D. Medicine
+
+`2010-2011`
+__UC Berkeley & UCSF Graduate Program in Bioengineering__
+M.S. Bioengineering
+
+`2006-2010`
+__University of California, Berkeley (UC Berkeley)__
+B.S. Bioengineering
+
+## Experience
+
+`2019-present`
+__Anesthesiology Resident Physician (Research Track)__
+*University of Washington Affiliated Hospitals*
+Combined residency and research fellowship.  Training hospitals include University of Washington Medical Center, Harborview Medical Center, Seattle Children’s Hospital, Veterans Affairs Puget Sound Hospital.
+
+`2017-2019`
+__Healthcare Technology Fellow__
+*Google Research*
+Worked with Healthcare AI team as medical specialist.  Developed machine learning models in the domain of natural language processing with the goal of [automating medical documentation creation and reducing physician burnout](https://research.googleblog.com/2017/11/understanding-medical-conversations.html)
+
+`2014-2016`
+__Engineering Project Director__
+*UCSF Biodesign Lab*
+Lead a $3.5 million project funded by Bill & Melinda Gates Foundation to develop an intravaginal device for pregnant women to detect signs of imminent preterm birth before symptoms present.  This would enable triage to high-risk specialists and hospitals which is especially needed in remote areas with limited health care infrastructure.
+
 
 ### Specialized in
 
@@ -27,20 +55,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
-## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
