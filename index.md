@@ -86,7 +86,7 @@ __Engineer__,
 
 ## Publications
 
-### Peer Reviewed Journals
+### Journals
 
 Castle E, __Chung P__, Chen M, Behfar MH, Gao J, Chiu N, Nelson G, Roy S, Oberoi S. Compliance Monitoring via a Bluetooth Enabled Retainer: A Prospective Clinical Pilot Study. Orthodontics and Craniofacial Research, May 2019
 
@@ -100,13 +100,13 @@ __Chung P__, Heller JA, Etemadi M, Liu J, Ottoson P, Rand L, Roy S. Rapid and Lo
 
 Etemadi M, __Chung P__, Heller JA, Liu J, Rand L, Roy S. Towards BirthAlert – A Clinical Device Intended for Early Preterm Birth Detection. IEEE Transactions in Biomedical Engineering, July 2013
 
-### Peer Reviewed Conference Proceedings
+### Conference Proceedings
 
 __Chung P__, Rowe A, Etemadi M, Lee H, Roy S. Fabric-based Pressure Sensor Array for Decubitus Ulcer Monitoring. Proceedings of the 35th Annual Conference of the IEEE Engineering in Medicine and Biology Society, July 2013
 
 Etemadi M, __Chung P__, Heller JA, Liu J, Grossman-Kahn R, Rand L, Roy S. Novel Device to Trend Impedance and Fluorescence of the Cervix for Preterm Birth Detection. Proceedings of the 35th Annual Conference of the IEEE Engineering in Medicine and Biology Society, July 2013
 
-### Peer Reviewed Conference Abstracts
+### Conference Abstracts
 
 Dunn J, Chen S, Tsai M, Hornburg D, Newmann S, __Chung P__, Avina M, Leng Y, Holman R, Lee T, Berrios S, Qureshi S, Baer R, Etemadi M, Montelongo E, Paynter R, Zhao B, Roy S, Jelliffe L, Snyder M, Rand, L.  Smart Diaphragm Study: Multi-omics profiling and cervical device measurements during pregnancy. 39th Annual Pregnancy Meeting, February 2019
 
