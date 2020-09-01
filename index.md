@@ -110,7 +110,7 @@ Etemadi M, __Chung P__, Heller JA, Liu J, Grossman-Kahn R, Rand L, Roy S. Novel 
 
 Dunn J, Chen S, Tsai M, Hornburg D, Newmann S, __Chung P__, Avina M, Leng Y, Holman R, Lee T, Berrios S, Qureshi S, Baer R, Etemadi M, Montelongo E, Paynter R, Zhao B, Roy S, Jelliffe L, Snyder M, Rand, L.  Smart Diaphragm Study: Multi-omics profiling and cervical device measurements during pregnancy. 39th Annual Pregnancy Meeting, February 2019
 
-### Regional Meetings & Presentations
+### Presentations
 
 Castle E, __Chung P__, Nelson G, Behfar M, Chen M, Roy S.  Improving orthodontic retention compliance using objective wear time data with the SmartByte retainer.  2016 Annual Session of American Association of Orthodontists, May 2016
 
