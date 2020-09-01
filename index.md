@@ -3,7 +3,7 @@ layout: cv
 title: Philip Chung's CV
 ---
 # Philip Chung
-Resident Physician - Anesthesiology
+Resident Physician | Anesthesiology
 
 <p>Department of Anesthesiology & Pain Medicine
 <br/>University of Washington, Box 356540
@@ -36,17 +36,17 @@ B.S. Bioengineering
 `2019-present`
 __Anesthesiology Resident Physician (Research Track)__,
 *University of Washington Affiliated Hospitals* 
-<br>Combined residency and research fellowship.  Training hospitals include University of Washington Medical Center, Harborview Medical Center, Seattle Children’s Hospital, Veterans Affairs Puget Sound Hospital.
+<br> Combined residency and [research fellowship](https://depts.washington.edu/anesth/education/residents/bonica.shtml).  Training hospitals include University of Washington Medical Center, Harborview Medical Center, Seattle Children’s Hospital, Veterans Affairs Puget Sound Hospital.
 
 `2017-2019`
 __Healthcare Technology Fellow__,
 *Google Research* 
-<br>Worked with Healthcare AI team as medical specialist.  Developed machine learning models in the domain of natural language processing with the goal of [automating medical documentation creation](https://research.googleblog.com/2017/11/understanding-medical-conversations.html) and reducing physician burnout.
+<br> Worked with Healthcare AI team as medical specialist.  Developed machine learning models in the domain of natural language processing with the goal of [automating medical documentation creation](https://research.googleblog.com/2017/11/understanding-medical-conversations.html) and reducing physician burnout.
 
 `2014-2016`
 __Engineering Project Director__,
 *UCSF Biodesign Lab* 
-<br>Lead a $3.5 million project funded by Bill & Melinda Gates Foundation to develop an intravaginal device for pregnant women to detect signs of imminent preterm birth before symptoms present.  This would enable triage to high-risk specialists and hospitals which is especially needed in remote areas with limited health care infrastructure.  Custom electronics designed and fabricated at UCSF.  Clinical study at UCSF and San Francisco General Hospital.
+<br> Lead a $3.5 million project funded by Bill & Melinda Gates Foundation to develop an intravaginal device for pregnant women to detect signs of imminent preterm birth before symptoms present.  This would enable triage to high-risk specialists and hospitals which is especially needed in remote areas with limited health care infrastructure.  Custom electronics designed and fabricated at UCSF.  Clinical study at UCSF and San Francisco General Hospital.
 
 `2011-2014`
 __Research Engineer__,
