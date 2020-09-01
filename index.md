@@ -31,6 +31,7 @@ B.S. Bioengineering
 
 ## Experience
 
+### Employment
 `2019-present`
 __Anesthesiology Resident Physician (Research Track)__
 *University of Washington Affiliated Hospitals* <br>Combined residency and research fellowship.  Training hospitals include University of Washington Medical Center, Harborview Medical Center, Seattle Children’s Hospital, Veterans Affairs Puget Sound Hospital.
@@ -41,29 +42,54 @@ __Healthcare Technology Fellow__
 
 `2014-2016`
 __Engineering Project Director__
-*UCSF Biodesign Lab* <br>Lead a $3.5 million project funded by Bill & Melinda Gates Foundation to develop an intravaginal device for pregnant women to detect signs of imminent preterm birth before symptoms present.  This would enable triage to high-risk specialists and hospitals which is especially needed in remote areas with limited health care infrastructure.
+*UCSF Biodesign Lab* <br>Lead a $3.5 million project funded by Bill & Melinda Gates Foundation to develop an intravaginal device for pregnant women to detect signs of imminent preterm birth before symptoms present.  This would enable triage to high-risk specialists and hospitals which is especially needed in remote areas with limited health care infrastructure.  Custom electronics designed and fabricated at UCSF.  Clinical study at UCSF and San Francisco General Hospital.
+
+`2011-2014`
+__Research Engineer__
+*UCSF Biodesign Lab* <br> Designed and fabricated medical devices for clinical research.  Details below under "Other Projects".
 
 
-### Specialized in
+### Other Projects
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2013-2018`
+__Principal Engineer__
+*Orthodontic Smart Retainer Project* <br> Developed hawley retainer with embedded bluetooth sensor and companion iOS application for patients to track time worn and patient adherence to treatment.  Used in clinical study at UCSF.
 
-### Research interests
+`2013-2014`
+__Engineer__
+*Cloud-enabled Data Logger for Pectus Carinatum & Excavatum* <br> Developed a wireless datalogging platform for clinical study of two novel chest bracing systems--a compressive brace for treating pectus carinatum and a magnetic brace for pectus excavatum.  Used in clinical studies conducted in Buenos Ares, Argentina and at UCSF.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Honors and Awards
 
+`2017` Kaiser Permanente Medical Student Scholarship, Winner
 
+`2016` Paul and Daisy Soros Fellowship for New Americans, Finalist
 
+`2013` Y Combinator Seed Accelerator, Finalist
 
+`2012` GSMA Mobile Health University Challenge, Finalist
 
-## Awards
+`2011` Rock Health Seed Accelerator, Finalist
 
-`2012`
-President, *Royal Society*, London, UK
+`2011` UC Berkeley Venture Labs Competition, Winner
 
-Associate, *French Academy of Science*, Paris, France
+`2010` Andy S. Grove Graduate Fellowship
 
+`2009` UC Berkeley Alumni Leadership Award Scholar
 
+`2006` UC Berkeley Regents' and Chancellor's Scholar
+
+## Professional Memberships
+
+`2017-present` American Society of Anesthesiologists
+
+`2014-present` American Medical Association
+
+`2014-present` Institute of Electrical and Electronics Engineers
+
+`2008-present` Tau Beta Pi Engineering Honor Society
+
+`2007-2011` UC Berkeley Bioengineering Honor Society *(President, 2009)*
 
 ## Publications
 
