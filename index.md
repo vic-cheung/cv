@@ -51,10 +51,22 @@ __Engineering Project Director__,
 `2011-2014`
 __Research Engineer__,
 *UCSF Biodesign Lab* 
-<br> Designed and fabricated medical devices for clinical research.  Details below under "Other Projects".
+<br> Designed and fabricated medical devices for clinical research.  Details below under "Other Research Projects".
 
 
-### Other Projects
+### Medical School Experiences
+
+`2016`
+__Medical Student__,
+*Assessing Acceptability of the Aeris Mobile-Enabled Spirometer for Home Management in the Urban Underserved*
+<br> Collaborated with start-up company, [Aluna Inc.](https://alunacare.com/) to evaluate acceptability of a pocket-sized spirometer device and mobile game app with urban underserved asthma patients by trialing device with patients and then surveying patients and parents.
+
+`2015-2016`
+__Health Coach__,
+*UCSF Surgery Wellness Clinic - Center for Surgery in Older Adults*
+<br> Served as health coach in interdisciplinary team (geriatrician, registered dietician, physical therapist, occupational therapist) in launching a pilot program for individualized [pre-surgery optimization in geriatric patients undergoing elective surgery](https://geriatricsurgery.ucsf.edu/) with the goal of reducing post-operative mortality, morbidity, and extended hospital stay.
+
+### Other Research Projects
 
 `2013-2018`
 __Principal Engineer__,
@@ -65,6 +77,11 @@ __Principal Engineer__,
 __Engineer__,
 *Cloud-enabled Data Logger for Pectus Carinatum & Excavatum* 
 <br> Developed a wireless datalogging platform for clinical study of two novel chest bracing systems--a compressive brace for treating pectus carinatum and a magnetic brace for pectus excavatum.  Used in clinical studies conducted in Buenos Ares, Argentina and at UCSF.
+
+`2012-2014`
+__Engineer__,
+*Wound Dressing for Decubitus Ulcer Monitoring*
+<br> Developed fabric-based pressure sensitive wound dressing for monitoring development of pressure ulcers, which streams data wirelessly to an android tablet.
 
 ## Publications
 
