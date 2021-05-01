@@ -54,19 +54,6 @@ __Research Engineer__,
 *UCSF Biodesign Lab* 
 <br> Designed and fabricated medical devices for clinical research.  Details below under "Other Research Projects".
 
-
-### Medical School Experiences
-
-`2016`
-__Medical Student__,
-*Assessing Acceptability of the Aeris Mobile-Enabled Spirometer for Home Management in the Urban Underserved*
-<br> Collaborated with start-up company, [Aluna Inc.](https://alunacare.com/) to evaluate acceptability of a pocket-sized spirometer device and mobile game app with urban underserved asthma patients by trialing device with patients and then surveying patients and parents.
-
-`2015-2016`
-__Health Coach__,
-*UCSF Surgery Wellness Clinic - Center for Surgery in Older Adults*
-<br> Served as health coach in interdisciplinary team (geriatrician, registered dietician, physical therapist, occupational therapist) in launching a pilot program for individualized [pre-surgery optimization in geriatric patients undergoing elective surgery](https://geriatricsurgery.ucsf.edu/) with the goal of reducing post-operative mortality, morbidity, and extended hospital stay.
-
 ### Other Research Projects
 
 `2013-2018`
@@ -84,7 +71,7 @@ __Engineer__,
 *Wound Dressing for Decubitus Ulcer Monitoring*
 <br> Developed fabric-based pressure sensitive wound dressing for monitoring development of pressure ulcers, which streams data wirelessly to an android tablet.
 
-## Publications
+## Publications & Presentations
 
 ### Journals
 
@@ -100,6 +87,14 @@ __Chung P__, Heller JA, Etemadi M, Liu J, Ottoson P, Rand L, Roy S. Rapid and Lo
 
 Etemadi M, __Chung P__, Heller JA, Liu J, Rand L, Roy S. Towards BirthAlert – A Clinical Device Intended for Early Preterm Birth Detection. IEEE Transactions in Biomedical Engineering, July 2013
 
+### Oral Presentations
+
+__Chung P__, Fong CT, O'Reilly-Shah VN.  Natural Language Processing Predicts ASA Physical Status Classification from Pre-operative Note Text.  Society of Critical Care Anesthesiologists, May 2021.
+
+__Chung P__, Fong CT, O'Reilly-Shah VN.  Natural Language Processing Predicts ASA Physical Status Classification from Pre-operative Note Text.  Association of University Anesthesiologists, May 2021.
+
+__Chung P__, Fong CT, O'Reilly-Shah VN.  Automated ASA Physical Status Classification Prediction from History of Present Illness.  Western Anesthesia Residents Conference, May 2021.
+
 ### Conference Proceedings
 
 __Chung P__, Rowe A, Etemadi M, Lee H, Roy S. Fabric-based Pressure Sensor Array for Decubitus Ulcer Monitoring. Proceedings of the 35th Annual Conference of the IEEE Engineering in Medicine and Biology Society, July 2013
@@ -110,7 +105,9 @@ Etemadi M, __Chung P__, Heller JA, Liu J, Grossman-Kahn R, Rand L, Roy S. Novel 
 
 Dunn J, Chen S, Tsai M, Hornburg D, Newmann S, __Chung P__, Avina M, Leng Y, Holman R, Lee T, Berrios S, Qureshi S, Baer R, Etemadi M, Montelongo E, Paynter R, Zhao B, Roy S, Jelliffe L, Snyder M, Rand, L.  Smart Diaphragm Study: Multi-omics profiling and cervical device measurements during pregnancy. 39th Annual Pregnancy Meeting, February 2019
 
-### Presentations
+### Poster Presentations
+
+__Chung P__, Fong CT, O'Reilly-Shah VN.  Natural Language Processing Predicts ASA Physical Status Classification from Pre-operative Note Text.  Association of University Anesthesiologists, May 2021.
 
 Castle E, __Chung P__, Nelson G, Behfar M, Chen M, Roy S.  Improving orthodontic retention compliance using objective wear time data with the SmartByte retainer.  2016 Annual Session of American Association of Orthodontists, May 2016
 
@@ -179,4 +176,4 @@ __Vodafone Americas Foundation Blog__, ["SMART Diaphragm: Two and a Half Years I
 `2014`
 __UCSF News Center__ ["UCSF Team Wins $2.7 Million Grant for Innovative Project to Reduce Premature births"](http://www.ucsf.edu/news/2014/01/111496/ucsf-team-wins-27-million-grant-innovative-project-reduce-premature-births)
 
-<br/><br/>Last updated: August 31, 2020
+<br/><br/>Last updated: May 1, 2021
