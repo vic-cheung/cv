@@ -107,7 +107,7 @@ Dunn J, Chen S, Tsai M, Hornburg D, Newmann S, __Chung P__, Avina M, Leng Y, Hol
 
 ### Poster Presentations
 
-__Chung P__, Fong CT, O'Reilly-Shah VN.  Natural Language Processing Predicts ASA Physical Status Classification from Pre-operative Note Text.  Association of University Anesthesiologists, May 2021.
+__Chung P__, Fong CT, O'Reilly-Shah VN.  Natural Language Processing Predicts ASA Physical Status Classification from Pre-operative Note Text.  International Anesthesia Research Society, May 2021.
 
 Castle E, __Chung P__, Nelson G, Behfar M, Chen M, Roy S.  Improving orthodontic retention compliance using objective wear time data with the SmartByte retainer.  2016 Annual Session of American Association of Orthodontists, May 2016
 
