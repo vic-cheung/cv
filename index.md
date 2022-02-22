@@ -153,16 +153,16 @@ _[UCSD](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html
 "Mentorship program for underprivileged and socioeconomically disadvantaged undergraduates for success in graduate school to later assume positions of leadership in industry, government, public service, and academia following completion of a doctoral STEM degree"<br>
 <p>Two-way avenue: (1) Received mentorship from prior two cohorts as part of the incoming cohort (2) Provided mentorship to the next two cohorts while progressing through the program</p>
 
-## Publications & Conferences
-
-### Journals
+## Publications
 
 __Cheung, V.__, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg, E.H. (2021) [Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01627-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124721016272%3Fshowall%3Dtrue) Cell Reports, 37(12):110131<br>
 
 __Cheung, V.__ "[Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)" Towards Data Science. Medium, 20 Jun. 2020. Web.<br>
 
 
-### Conferences (scientific)
+## Conferences
+
+### Scientific
 
 `2021`
 UCSF S.O.L.V.E. Health Tech: Digital Health Equity Summit __Attendee__
@@ -209,7 +209,7 @@ SACNAS National Conference __Presenter__, _poster presentation_
 `2013`
 UCSD STARS Summer Research Conference __Presenter__, _15 min talk_
 
-### Conferences (diversity)
+### Diversity
 
 `2019`
 Northern California Forum for Diversity in Graduate Education __Speaker__ (1hr)
