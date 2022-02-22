@@ -1,179 +1,254 @@
 ---
 layout: cv
-title: Philip Chung's CV
+title: Victoria Cheung's CV
 ---
-# Philip Chung
-Resident Physician | Anesthesiology
-
-<p>Department of Anesthesiology & Pain Medicine
-<br/>University of Washington, Box 356540
-<br/>1959 NE Pacific Street, BB-1469
-<br/>Seattle, WA 98195-6540</p>
+# Victoria Cheung, PhD
+Bioinformatician | Computational Biologist
 
 <div id="webaddress">
-<a href="mailto:chungph@uw.edu"><i class="fas fa-envelope"></i> chungph[at]uw[dot]edu</a>
-| <a href="https://www.linkedin.com/in/philipchung"><i class="fab fa-linkedin"></i> linked-in</a>
-| <a href="https://scholar.google.com/citations?hl=en&user=30ay-W8AAAAJ"><i class="fas fa-graduation-cap"></i> google scholar</a>
+<a href="mailto:victoriakcheung@gmail.com"><i class="fas fa-envelope"></i> victoriakcheung[at]gmail[dot]com</a>
+| <a href="https://www.linkedin.com/in/victoriacheung"><i class="fab fa-linkedin"></i> linked-in</a>
+| <a href="https://scholar.google.com/citations?user=8DJJyEIAAAAJ&hl=en&authuser=1"><i class="fas fa-graduation-cap"></i> google scholar</a>
 </div>
 
 ## Education
 
-`2014-2019`
-__University of California, San Francisco (UCSF)__,
-M.D. Medicine
+`2015-2021`
+__(UCSF) University of California, San Francisco__,
+Ph.D. Genetics; concentration in Neuroscience
 
-`2010-2011`
-__UC Berkeley & UCSF Graduate Program in Bioengineering__,
-M.S. Bioengineering
+`2011-2015`
+__(UCSD) University of California, San Diego__,
+B.S. Microbiology; minor: Chinese Studies
 
-`2006-2010`
-__University of California, Berkeley (UC Berkeley)__,
-B.S. Bioengineering
+## Additional Courses
+
+`2021`
+__Genentech L.E.A.D Discovery Program__,
+Certification. Supply Chain Management
+
+`2017`
+__Cold Spring Harbor Laboratory__,
+Vision: _Linking Circuits, Perception, and Behavior_
 
 ## Experience
 
-### Employment
+### Career-related
 
-`2019-present`
-__Anesthesiology Resident Physician (Research Track)__,
-*University of Washington Affiliated Hospitals* 
-<br> Combined residency and [research fellowship](https://depts.washington.edu/anesth/education/residents/bonica.shtml).  Training hospitals include University of Washington Medical Center, Harborview Medical Center, Seattle Children’s Hospital, Veterans Affairs Puget Sound Hospital.
+`SEP 2021 - Present`
+__ONCOLOGY BIOINFORMATICS & MOLECULAR ONCOLOGY PHD INTERN__<br>
+*[Genentech](https://www.gene.com/)*<br>
+Characterized gene signature development and refinement for T cell signaling pathways in cancer models<br>
+- Wrote a data processing pipeline utilizing Scanpy, Numpy, Pandas, scikit-learn 
+- Performed statistical analyses on different drug treatment populations.
+  - Gene set enrichment analysis
+  - Differential gene expression analysis
+- Utilized supervised batch correction techniques and unsupervised clustering algorithms (UMAP, topic modeling) to visualize and analyze single cell RNA seq data outputs. 
+- Wrote custom plotting functions using Matplotlib to better visualize the effect of drug treatments.
 
-`2017-2019`
-__Healthcare Technology Fellow__,
-*Google Research* 
-<br> Worked with Healthcare AI team as medical specialist.  Developed machine learning models in the domain of natural language processing with the goal of [automating medical documentation creation](https://research.googleblog.com/2017/11/understanding-medical-conversations.html) and reducing physician burnout.
+**_Technologies used:_**<br>
+ - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
+ - R (fgsea, SingleCellExperiment, Seurat)<br>
 
-`2014-2016`
-__Engineering Project Director__,
-*UCSF Biodesign Lab* 
-<br> Lead a $3.5 million project funded by Bill & Melinda Gates Foundation to develop an intravaginal device for pregnant women to detect signs of imminent preterm birth before symptoms present.  This would enable triage to high-risk specialists and hospitals which is especially needed in remote areas with limited health care infrastructure.  Custom electronics designed and fabricated at UCSF.  Clinical study at UCSF and San Francisco General Hospital.
+`JUL 2016 - DEC 2021`
+__GRADUATE RESEARCHER IN SINGLE-CELL OMICS, SYSTEMS NEUROSCIENCE__<br>
+*[Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)*<br>
+**Project 1**<br>
+Developed a multiplexed, high-throughput, single-cell sequencing method for neurons that preserve connectivity information in addition to obtaining molecular identity (VECTORseq). Git Repo [here](https://github.com/vic-cheung/vectorseq).
+- Wrote the data processing pipeline using Python after genome alignment using Cellranger (10x Genomics) on an AWS EC2 instance.
+  - Used unsupervised machine learning techniques such as t-SNE/UMAP clustering to match molecular identities to cellular function and role in behavioral output.
+  - Implemented nearest neighbors algorithms to account for batch differences when merging datasets.
+- Streamlined brain dissociation techniques and increased neuron survivability yield 100-fold based on data-driven outcomes from clustering analyses.
+- Validated clustering results of single-cell sequencing against the [2020 10x sequencing dataset from the Allen Atlas](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) and that the methodology was functional.
+  - Evaluated range of highly variable genes expressed per cluster for the validation of cell identity
+- Managed collaborations with the Chan-Zuckerberg Biohub (Spyros Darmanis Group, now @ Genentech)
 
-`2011-2014`
-__Research Engineer__,
-*UCSF Biodesign Lab* 
-<br> Designed and fabricated medical devices for clinical research.  Details below under "Other Research Projects".
+**_Technologies used:_**<br>
+ - AWS (EC2/S3)
+ - Linux, bash, CellRanger
+ - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
+ - FIJI, Zen
+ - Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing
+ - stereotaxic surgeries, viral delivery
 
-### Other Research Projects
+**Project 2**<br>
+Designed an audition-based behavioral paradigm to study sensorimotor integration in the context of mice.<br>
+- Wrote custom software to support custom-built hardware using serial communication between MATLAB and an Arduino microprocessor, which increased productivity by - 6-fold from the parallelization and automation of data acquisition, storage, and analysis.
+- Used this system in exploring how sensory input is represented in the brain and transformed into behavioral commands, using mice as the model organism.
+- Wrote custom analyses software to automate, refine, and interpret both raw behavioral data and fiber photometry signals.
+- Used CAD software to design and 3D print custom behavioral apparatuses.
+- Refined surgical protocols to increase survival surgery success by 20%. Delivery of viruses, drugs, and organic dyes into the mouse brain.
+- Performed physiology recordings on brain slices to validate optogenetic and fiber photometry experiments
+- Assembled fiber photometry and optogenetic manipulation equipment to record and perturb neuronal activity in the context of quantitative behavioral assays.
+
+**_Technologies used:_**<br>
+ - CAD Software (Onshape, Cura, eMachineShop)
+ - MATLAB
+ - Arduino (Uno)
+ - FIJI, Zen
+ - stereotaxic surgeries, viral delivery, fiber optic implants
+ - fiber photometry, optogenetics
+ - immunohistochemistry
+
+`MAY 2020 - JUL 2020`
+__HEALTH DATA SCIENCE FELLOW__<br>
+*[Insight Data Science](https://insightfellows.com/health-data) @Silicon Valley*<br>
+Developed a predictive clinical calculator to assess Acute Kidney Injury in hospitalized patients, which would result in better management, care/medication dosing, injury prevention, and reduced hospital length of stay, thus freeing up occupied resources and minimizing financial costs to both patient and hospital.
+- Utilized PostgreSQL querying to gather relevant data from the MIMIC-III database and manipulated the data with Python Pandas from 25 tables of data, 46,000 patients, thousands of diagnoses and lab tests, and clinical documentation-- generating over 3 million rows of data and 70 unique features comprising lab tests and demographic information. 
+- Used supervised machine learning in Python such as regression models from scikit-learn and XGBoost to forecast Acute Kidney Injury, with a predictive accuracy of ~91%.
+- Medium Article in Towards Data Science: [Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)
+
+**_Technologies used:_**<br>
+ - Python (NumPy, scikit-learn, Matplotlib, SciPy, XGBoost)
+ - AWS (EC2, S3, Route 53)
+ - Streamlit
+
+### Other
 
 `2013-2018`
-__Principal Engineer__,
-*Orthodontic Smart Retainer Project* 
-<br> Developed hawley retainer with embedded bluetooth sensor and companion iOS application for patients to track time worn and patient adherence to treatment.  Used in clinical study at UCSF.
+__[GENENTECH](https://www.gene.com/) DISCOVERY PROGRAM L.E.A.D SUPPLY CHAIN__<br>
+*[Certification](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_SupplyChainCertificate.pdf)*<br>
+- Learned about the fundamentals of supply chain, how the supply chain spans a variety of roles throughout Genentech's delivery of therapies as well as its involvement in providing medication access to underserved communities and its drive towards sustainability. 
+- Chatted with supply chain business leaders to interact with individuals in the industry. 
+- Discussed the transferability of skills from the PhD to business/supply chain.
+- Participated as Operations Lead in a supply chain simulation where my team and I placed second overall.	
 
-`2013-2014`
-__Engineer__,
-*Cloud-enabled Data Logger for Pectus Carinatum & Excavatum* 
-<br> Developed a wireless datalogging platform for clinical study of two novel chest bracing systems--a compressive brace for treating pectus carinatum and a magnetic brace for pectus excavatum.  Used in clinical studies conducted in Buenos Ares, Argentina and at UCSF.
+`APR 2016 - JUN 2016`
+__GRADUATE RESEARCHER--rotation__,
+*[Guo Huang Lab](https://www.cvri.ucsf.edu/~huang/lab/Research.html) @ UCSF*<br>
+Area of Research: Regenerative Potential of Cardiomyocytes<br>
+- Performed heart explants for cell culture and subsequent drug studies for the purpose of exploring organ regeneration and repair in neonatal mice—with an emphasis on the pathways that regulate resident stem cell activation and mature cell de-differentiation/proliferation. 
+- Explored organ regeneration and development from an evolutionary standpoint across different species of animals i.e. naked mole rat, finch, rat, mouse, zebrafish.
+- Utilized innovative and integrated approaches in engineering, single cell analysis, advanced imaging microscopy, drug delivery, and genome manipulation technology.
 
-`2012-2014`
-__Engineer__,
-*Wound Dressing for Decubitus Ulcer Monitoring*
-<br> Developed fabric-based pressure sensitive wound dressing for monitoring development of pressure ulcers, which streams data wirelessly to an android tablet.
+`SEP 2015 - DEC 2015`
+__GRADUATE RESEARCHER--rotation__,
+*[Dengke Ma Lab](https://malab.ucsf.edu/research) @ UCSF*<br>
+Area of Research: Homeostatic Response to Extreme Abiotic Factors<br>
+- Created a functional mutant line in C. elegans via cDNA microinjections and exposed the mutants to extreme abiotic environments via behavioral assays to understand cellular intrinsic tolerance of hypoxia/anoxia and hypothermia.
+- Utilized RNA-seq to identify genes implicated in cryopreservation/hypoxia-tolerance with therapeutic potential.
+- Obtained qualitative behavioral data on how animals sensed and responded to changes in internal states to elicit behavior and maintain homeostasis.
+
+`SEP 2012 - JUL 2015`
+__RESEARCH FELLOWSHIP: [UCLEADS](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html) & [STARS](https://grad.ucsd.edu/diversity/programs/stars/index.html)__,
+*[Andrew D. Huberman Lab](https://hubermanlab.com/about/) @ UCSD*<br>
+Area of Research: Binocular Plasticity & Dynamic Strategy Implementation in Cuttlefish <br>
+- Developed a model of visual perception and prey capture using cuttlefish to study the neural circuit organization supporting flexible eye movements. 
+  - Underlying goal: provide insight into amblyopia (lazy eye)
+- Optimized behavioral parameters and refined surgical techniques for the novel model organism.
+  - Increased consistency between experiments for reproducibility.
+- Optimized tracking and analysis of dynamical eye movements using multi-planar high-speed imaging and Simi Motion software.
+  - Increased productivity and output by 40%
+- 3D-reconstructed neuron structure for morphometric analysis using Neurolucida.
+
+`JUN 2014 - SEP 2014`
+__RESEARCH FELLOWSHIP: [UCSF SRTP](https://graduate.ucsf.edu/srtp)__,
+*[David R. Copenhagen Lab](https://neurograd.ucsf.edu/people/david-copenhagen-phd) @ UCSF*<br>
+Area of Research: Effects of Light Dependent Ca<sup>2+</sup> Signaling during retinal development<br>
+- Explored the effects of light dependent Ca<sup>2+</sup> waves in the developing mouse retina with a focus on the coupling of amacrine cells to melanopsin ganglion cells via gap junctions. 
+- Characterized appropriate transgenic lines and established baseline comparisons in adult retina to observe and document deviations from the developed animal to the developing animal.
+- Performed retinal dissections for cell coupling studies.
+
+## Mentorship & Diversity
+
+`JUN 2026 - SEP 2021`
+__MENTOR FOR UNDERGRADUATES__,
+- Trained and mentored 3 undergraduates on performing research tasks on how to: think independently, plan experiments, perform surgical protocols, and analyze data. Gave career/research advice.
+- Post-graduation outcomes of the 3 undergraduates: 
+  1. data analyst @[BoxLunch](https://www.boxlunch.com/homepage?cm_mmc=SEM-_-GGL-_-BR-_-DMY-_-541787926_57911524309&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP-FK2iMX9GHn7rNmiIQvYcnjXlKJkunprrDSj0u4bnXOVlWWHPe9YBoC1TMQAvD_BwE)
+  2. research scientist @[Alkahest](https://www.alkahest.com/)
+  3. applying to medical school
+
+`JUN 2019 - AUG 2019`
+__STUDENT ADVISOR__,
+*[UCSF SRTP](https://graduate.ucsf.edu/srtp)*<br>
+- Developed curriculum for and taught curriculum to teach rising junior and senior undergraduates on: 
+ - how to become a strong graduate school applicant
+ - how to create compelling posters and presentations
+ - how to write personal statements
+ - how to read and dissect scientific papers
+ 
+ `JAN 2016 - JUN 2016`
+__STUDENT TEACHER__,
+*[UCSF Science and Health Education Partnership](https://sep.ucsf.edu/what-we-do/)*<br>
+- Created and developed a series of interactive and investigative lesson plans to teach freshman biology.
+- Mentored URMs and socioeconomically disadvantaged students on different career paths in science.
+
+ `MAR 2013 - JUN 2015`
+__UC LEADERSHIP EXCELLENCE THROUGH ADVANCED DEGREES SCHOLAR SCHOLAR (UCLEADS)__,
+*[UCSD](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html)*<br>
+"Mentorship program for underprivileged and socioeconomically disadvantaged undergraduates for success in graduate school to later assume positions of leadership in industry, government, public service, and academia following completion of a doctoral STEM degree"
+- Two-way avenue: 
+  1. Received mentorship from prior two cohorts as part of the incoming cohort
+  2. Provided mentorship to the next two cohorts while progressing through the program
 
 ## Publications & Presentations
 
 ### Journals
 
-Castle E, __Chung P__, Chen M, Behfar MH, Gao J, Chiu N, Nelson G, Roy S, Oberoi S. Compliance Monitoring via a Bluetooth Enabled Retainer: A Prospective Clinical Pilot Study. Orthodontics and Craniofacial Research, May 2019
+__Cheung, V.__, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg, E.H. (2021) [Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01627-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124721016272%3Fshowall%3Dtrue) Cell Reports, 37(12):110131<br>
 
-Phan BA, __Chung P__. A Galloping Heart. New England Journal of Medicine, March 2017
+__Cheung, V.__ "[Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)" Towards Data Science. Medium, 20 Jun. 2020. Web.<br>
 
-Thatipelli S, Arun A, __Chung P__, Etemadi M, Heller JA, Kwiat D, Imamura-Ching J, Harrison MR, Roy S.  Review of existing brace adherence monitoring methods to assess adherence. Journal of Prosthetics and Orthotics, October 2016
-
-Harrison B, Stern L, __Chung P__, Etemadi M, Roy S, Harrison MR. MyPectus: First-in-human pilot study of remote compliance monitoring of teens using dynamic compression bracing to correct pectus carinatum. Journal of Pediatric Surgery, November 2015
-
-__Chung P__, Heller JA, Etemadi M, Liu J, Ottoson P, Rand L, Roy S. Rapid and Low-Cost Prototyping of Medical Devices using 3D Printed Molds for Liquid Injection Molding. Journal of Visualized Experiments, June 2014
-
-Etemadi M, __Chung P__, Heller JA, Liu J, Rand L, Roy S. Towards BirthAlert – A Clinical Device Intended for Early Preterm Birth Detection. IEEE Transactions in Biomedical Engineering, July 2013
-
-### Oral Presentations
-
-__Chung P__, Fong CT, O'Reilly-Shah VN.  Natural Language Processing Predicts ASA Physical Status Classification from Pre-operative Note Text.  Society of Critical Care Anesthesiologists, May 2021.
-
-__Chung P__, Fong CT, O'Reilly-Shah VN.  Natural Language Processing Predicts ASA Physical Status Classification from Pre-operative Note Text.  Association of University Anesthesiologists, May 2021.
-
-__Chung P__, Fong CT, O'Reilly-Shah VN.  Automated ASA Physical Status Classification Prediction from History of Present Illness.  Western Anesthesia Residents Conference, May 2021.
 
 ### Conference Proceedings
+#### _SCIENTIFIC_:
 
-__Chung P__, Rowe A, Etemadi M, Lee H, Roy S. Fabric-based Pressure Sensor Array for Decubitus Ulcer Monitoring. Proceedings of the 35th Annual Conference of the IEEE Engineering in Medicine and Biology Society, July 2013
+| Year | Event                                                     | Participation  |                                                    |
+|:-----|:----------------------------------------------------------|:---------------|:---------------------------------------------------|
+| 2021 | UCSF S.O.L.V.E. Health Tech: Digital Health Equity Summit | Attendee       |                                                    |
+| 2021 | COSYNE (computational and systems neuroscience)           | Attendee       |                                                    |
+| 2018 | UCSF Tetrad                                               | Presenter      | 15 min talk                                        |
+| 2017 | SFN Annual Conference                                     | Attendee       |                                                    |
+| 2017 | UCSF Tetrad                                               | Presenter      | poster presentation                                |
+| 2016 | UC LEADs Research Symposium                               | Attendee       |                                                    |
+| 2015 | UC LEADs Research Symposium                               | Presenter      | poster presentation                                |
+| 2014 | SFN Annual Conference                                     | Presenter      | poster presentation                                |
+| 2014 | UCSF Summer Research Training Program Symposium           | Presenter      | poster presentation + 15 min talk                  |
+| 2014 | UCSD Academic Enrichment Program                          | Presenter      | poster presentation                                |
+| 2014 | SACNAS National Conference                                | Presenter      | poster presentation                                |
+| 2014 | UCLEADs Annual Research Symposium                         | Presenter      | poster presentation                                |
+| 2013 | UCSD Academic Enrichment Program                          | Presenter      | poster presentation                                |
+| 2013 | SACNAS National Conference                                | Presenter      | poster presentation                                |
+| 2013 | UCSD STARS Summer Research Conference                     | Presenter      | 15 min talk                                        
 
-Etemadi M, __Chung P__, Heller JA, Liu J, Grossman-Kahn R, Rand L, Roy S. Novel Device to Trend Impedance and Fluorescence of the Cervix for Preterm Birth Detection. Proceedings of the 35th Annual Conference of the IEEE Engineering in Medicine and Biology Society, July 2013
+#### _DIVERSITY_:
 
-### Conference Abstracts
-
-Dunn J, Chen S, Tsai M, Hornburg D, Newmann S, __Chung P__, Avina M, Leng Y, Holman R, Lee T, Berrios S, Qureshi S, Baer R, Etemadi M, Montelongo E, Paynter R, Zhao B, Roy S, Jelliffe L, Snyder M, Rand, L.  Smart Diaphragm Study: Multi-omics profiling and cervical device measurements during pregnancy. 39th Annual Pregnancy Meeting, February 2019
-
-### Poster Presentations
-
-__Chung P__, Fong CT, O'Reilly-Shah VN.  Natural Language Processing Predicts ASA Physical Status Classification from Pre-operative Note Text.  International Anesthesia Research Society, May 2021.
-
-Castle E, __Chung P__, Nelson G, Behfar M, Chen M, Roy S.  Improving orthodontic retention compliance using objective wear time data with the SmartByte retainer.  2016 Annual Session of American Association of Orthodontists, May 2016
-
-Kaplan J, Hofer R, Brinson Z, __Chung P__, Lucas C, Teng D, Tang V, Broering J, Chang A, Finlayson E. Early learners as health coaches for high-risk surgical patients: a pilot study. 11th Annual Academic Surgical Congress, February 2016
-
-Teng D, Hofer R, __Chung P__, Lucas C, Broering J, Tang V, Attiga K, Kramer L, Rivas A, Kaplan J, Maselli J, Finalyson E. Get Fit for Surgery: An Interdisciplinary Geriatric Surgery Wellness Program. UCSF 5th Annual Quality & Safety Symposium, May 2015
-
-Oberoi S, __Chung P__.  Improving Orthodontic Device Compliance Using Gamified Digital Awards.  41st Annual Moyers Symposium, October 2014
-
-Rand L, Etemadi M, __Chung P__, Zlatnik M, Gonzalez J, Roy S. The Smart Diaphragm: A novel device for the prediction of preterm birth in at-risk women. International Fetal Medicine and Surgery Society, Jerusalem, Israel, May 2013
-
-Etemadi M, __Chung P__, Roy S, Rand L. UCSF SMART Diaphragm. GBCHealth Symposium Driving Global Technological Innovations for Maternal, Newborn and Child Health, New York, USA, October 2012
-__Chung P__, Wang J, Etemadi M, Roy S.  Limen Sensing.  GSMA-mHealth Alliance Mobile Health Summit; Cape Town, South Africa, June 2012
-
-Etemadi M, __Chung P__, Liu J, Heller JA, Rand L, Roy S. Smart Diaphragm: A Novel Device to Predict Preterm Labor. 4th Annual A. Richard Newton Global Technology Leaders Conference, Palo Alto, CA, USA, November 2011
+| Year | Event                                                         | Participation  |          |
+|:-----|:--------------------------------------------------------------|:---------------|:---------|
+| 2019 | Northern California Forum for Diversity in Graduate Education | Speaker        | 1 hr     |
+| 2018 | Northern California Forum for Diversity in Graduate Education | Speaker        | 1 hr     |
 
 ## Honors and Awards
 
-`2017` Kaiser Permanente Medical Student Scholarship, Winner
+`2017` Helmsley Scholar
 
-`2016` Paul and Daisy Soros Fellowship for New Americans, Finalist
+`2015` UC LEADs Symposium Presentation Award 
 
-`2013` Y Combinator Seed Accelerator, Finalist
+`2014` SACNAS National Research Conference Travel Scholarship 
 
-`2012` GSMA Mobile Health University Challenge, Finalist
+`2013` UCSD STARS Scholarly Presentation Award
 
-`2011` Rock Health Seed Accelerator, Finalist
+`2013` SACNAS National Research Conference Travel Scholarship 
 
-`2011` UC Berkeley Venture Labs Competition, Winner
+`2013` UCSD Provost Honors
 
-`2010` Andy S. Grove Graduate Fellowship
+`2012` UCSD Provost Honors
 
-`2009` UC Berkeley Alumni Leadership Award Scholar
+`2012` Kaiser Permanente Valuable Volunteer Award 
 
-`2006` UC Berkeley Regents' and Chancellor's Scholar
+`2011` UCSD Provost Honors 
 
-## Professional Memberships
+`2011` Kaiser Permanente Student Achievement Award 
 
-`2017-present` American Society of Anesthesiologists
-
-`2014-present` American Medical Association
-
-`2014-present` Institute of Electrical and Electronics Engineers
-
-`2008-present` Tau Beta Pi Engineering Honor Society
-
-`2007-2011` UC Berkeley Bioengineering Honor Society *(President, 2009)*
 
 ## Media Features
 
-`2017`
-__Aluna Blog__, ["Working with Urban Underserved Asthmatics"](https://medium.com/knox-med/working-with-urban-underserved-asthmatics-dfb8193d892f)
+`2019`
+__UCSF Poster__, [First Generation to College](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_FG2Cposter.pdf)
 
-`2017`
-__Documentary Film__, ["The Doctor Fix"](https://thedoctorfix.org/).  Kate McMahon Productions, LLC & AlitaFilms.
+`2019`
+__UCSF Article__, [Students Who Are First in Their Family to Attend College Share Stories, Experiences](https://www.ucsf.edu/news/2019/08/415181/students-who-are-first-their-family-attend-college-share-stories-experiences)
 
-`2015`
-__UCSF News Center__, ["Smart Retainer Keeps Patients (and Teeth) in Line"](https://www.universityofcalifornia.edu/news/smart-retainer-keeps-patients-and-teeth-line)
 
-`2015`
-__LabTV Video Interview__, ["Trying to Better Determine Pre-term Birth"](https://www.youtube.com/watch?v=1M84qZAUdSQ)
-
-`2014`
-__Vodafone Americas Foundation Blog__, ["SMART Diaphragm: Two and a Half Years In and Going Strong"](https://vodafone-us.com/2014/05/smart-diaphragm-two-half-years-going-strong/)
-
-`2014`
-__UCSF News Center__ ["UCSF Team Wins $2.7 Million Grant for Innovative Project to Reduce Premature births"](http://www.ucsf.edu/news/2014/01/111496/ucsf-team-wins-27-million-grant-innovative-project-reduce-premature-births)
-
-<br/><br/>Last updated: May 1, 2021
+<br/><br/>Last updated: Feb 22, 2022
