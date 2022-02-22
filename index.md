@@ -60,6 +60,7 @@ ___Technologies used:___<br>
  - Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing
  - stereotaxic surgeries, viral delivery
 
+<br>
 
 __Project 2__<br>
 Designed an audition-based behavioral paradigm to study sensorimotor integration in the context of mice.<br>
@@ -74,7 +75,7 @@ ___Technologies used:___<br>
 - fiber photometry, optogenetics
 - immunohistochemistry
 
-
+<br><br>
 
 `MAY 2020 - JUL 2020`
 __HEALTH DATA SCIENCE FELLOW__, *[Insight Data Science](https://insightfellows.com/health-data) @Silicon Valley*<br>
@@ -92,7 +93,7 @@ __[GENENTECH](https://www.gene.com/) DISCOVERY PROGRAM L.E.A.D SUPPLY CHAIN__<br
 _[Certification](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_SupplyChainCertificate.pdf)_<br>
 <p>Learned about the fundamentals of supply chain, how the supply chain spans a variety of roles throughout Genentech's delivery of therapies as well as its involvement in providing medication access to underserved communities and its drive towards sustainability. Chatted with supply chain business leaders to interact with individuals in the industry. Discussed the transferability of skills from the PhD to business/supply chain. Participated as Operations Lead in a supply chain simulation where my team and I placed second overall.</p>
 
-
+<br><br>
 
 `APR 2016 - JUN 2016`
 __GRADUATE RESEARCHER--rotation__,
@@ -100,7 +101,7 @@ _[Guo Huang Lab](https://www.cvri.ucsf.edu/~huang/lab/Research.html) @ UCSF_<br>
 Area of Research: Regenerative Potential of Cardiomyocytes<br>
 <p>Performed heart explants for cell culture and subsequent drug studies for the purpose of exploring organ regeneration and repair in neonatal mice—with an emphasis on the pathways that regulate resident stem cell activation and mature cell de-differentiation/proliferation. Explored organ regeneration and development from an evolutionary standpoint across different species of animals i.e. naked mole rat, finch, rat, mouse, zebrafish. Utilized innovative and integrated approaches in engineering, single cell analysis, advanced imaging microscopy, drug delivery, and genome manipulation technology.</p>
 
-
+<br><br>
 
 `SEP 2015 - DEC 2015`
 __GRADUATE RESEARCHER--rotation__,
@@ -108,7 +109,7 @@ _[Dengke Ma Lab](https://malab.ucsf.edu/research) @ UCSF_<br>
 Area of Research: Homeostatic Response to Extreme Abiotic Factors<br>
 <p>Created a functional mutant line in C. elegans via cDNA microinjections and exposed the mutants to extreme abiotic environments via behavioral assays to understand cellular intrinsic tolerance of hypoxia/anoxia and hypothermia. Utilized RNA-seq to identify genes implicated in cryopreservation/hypoxia-tolerance with therapeutic potential. Obtained qualitative behavioral data on how animals sensed and responded to changes in internal states to elicit behavior and maintain homeostasis.</p>
 
-
+<br><br>
 
 `SEP 2012 - JUL 2015`
 __RESEARCH FELLOWSHIP: [UCLEADS](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html) & [STARS](https://grad.ucsd.edu/diversity/programs/stars/index.html)__,
@@ -117,7 +118,7 @@ Area of Research: Binocular Plasticity & Dynamic Strategy Implementation in Cutt
 <p>Developed a model of visual perception and prey capture using cuttlefish to study the neural circuit organization supporting flexible eye movements. Underlying goal: provide insight into amblyopia (lazy eye).</p>
 <p>Optimized behavioral parameters and refined surgical techniques for the novel model organism. Increased consistency between experiments for reproducibility. Optimized tracking and analysis of dynamical eye movements using multi-planar high-speed imaging and Simi Motion software. Increased productivity and output by 40%. 3D-reconstructed neuron structure for morphometric analysis using Neurolucida.</p>
 
-
+<br><br>
 
 `JUN 2014 - SEP 2014`
 __RESEARCH FELLOWSHIP: [UCSF SRTP](https://graduate.ucsf.edu/srtp)__,
@@ -131,23 +132,23 @@ Area of Research: Effects of Light Dependent Ca<sup>2+</sup> Signaling during re
 __MENTOR FOR UNDERGRADUATES__,
 <p>Trained and mentored 3 undergraduates on performing research tasks on how to: think independently, plan experiments, perform surgical protocols, and analyze data. Gave career/research advice. Post-graduation outcomes of the 3 undergraduates: (1) data analyst @[BoxLunch](https://www.boxlunch.com/homepage?cm_mmc=SEM-_-GGL-_-BR-_-DMY-_-541787926_57911524309&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP-FK2iMX9GHn7rNmiIQvYcnjXlKJkunprrDSj0u4bnXOVlWWHPe9YBoC1TMQAvD_BwE) (2) research scientist @[Alkahest](https://www.alkahest.com/) (3) applying to medical school</p>
 
-
+<br><br>
 
 `JUN 2019 - AUG 2019`
 __STUDENT ADVISOR__,
 _[UCSF SRTP](https://graduate.ucsf.edu/srtp)_<br>
 <p>Developed curriculum for and taught curriculum to teach rising junior and senior undergraduates on: (1) how to become a strong graduate school applicant (2) how to create compelling posters and presentations (3) how to write personal statements (4) how to read and dissect scientific papers.</p>
 
+<br><br>
 
-
- `JAN 2016 - JUN 2016`
+`JAN 2016 - JUN 2016`
 __STUDENT TEACHER__,
 _[UCSF Science and Health Education Partnership](https://sep.ucsf.edu/what-we-do/)_<br>
 <p>Created and developed a series of interactive and investigative lesson plans to teach freshman biology. Mentored URMs and socioeconomically disadvantaged students on different career paths in science.</p>
 
+<br><br>
 
-
- `MAR 2013 - JUN 2015`
+`MAR 2013 - JUN 2015`
 __UC LEADERSHIP EXCELLENCE THROUGH ADVANCED DEGREES SCHOLAR SCHOLAR (UCLEADS)__,
 _[UCSD](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html)_<br>
 "Mentorship program for underprivileged and socioeconomically disadvantaged undergraduates for success in graduate school to later assume positions of leadership in industry, government, public service, and academia following completion of a doctoral STEM degree"<br>
