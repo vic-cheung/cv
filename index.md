@@ -62,8 +62,8 @@ ___Technologies used:___<br>
 <br>
 
 __Project 2__<br>
-Designed an audition-based behavioral paradigm to study sensorimotor integration in the context of mice.<br>
-<p>Wrote custom software to support custom-built hardware using serial communication between MATLAB and an Arduino microprocessor, which increased productivity by - 6-fold from the parallelization and automation of data acquisition, storage, and analysis. Used this system in exploring how sensory input is represented in the brain and transformed into behavioral commands, using mice as the model organism. Wrote custom analyses software to automate, refine, and interpret both raw behavioral data and fiber photometry signals. Used CAD software to design and 3D print custom behavioral apparatuses. Refined surgical protocols to increase survival surgery success by 20%. Delivery of viruses, drugs, and organic dyes into the mouse brain. Performed physiology recordings on brain slices to validate optogenetic and fiber photometry experiments. Assembled fiber photometry and optogenetic manipulation equipment to record and perturb neuronal activity in the context of quantitative behavioral assays.</p>
+<p>Designed an audition-based behavioral paradigm to study sensorimotor integration in the context of mice. 
+Wrote custom software to support custom-built hardware using serial communication between MATLAB and an Arduino microprocessor, which increased productivity by - 6-fold from the parallelization and automation of data acquisition, storage, and analysis. Used this system in exploring how sensory input is represented in the brain and transformed into behavioral commands, using mice as the model organism. Wrote custom analyses software to automate, refine, and interpret both raw behavioral data and fiber photometry signals. Used CAD software to design and 3D print custom behavioral apparatuses. Refined surgical protocols to increase survival surgery success by 20%. Delivery of viruses, drugs, and organic dyes into the mouse brain. Performed physiology recordings on brain slices to validate optogenetic and fiber photometry experiments. Assembled fiber photometry and optogenetic manipulation equipment to record and perturb neuronal activity in the context of quantitative behavioral assays.</p>
 
 ___Technologies used:___<br>
 - CAD Software (Onshape, Cura, eMachineShop)
@@ -130,7 +130,7 @@ Area of Research: Effects of Light Dependent Ca<sup>2+</sup> Signaling during re
 `JUN 2026 - SEP 2021`
 __MENTOR FOR UNDERGRADUATES__,
 Trained and mentored 3 undergraduates on performing research tasks on how to: think independently, plan experiments, perform surgical protocols, and analyze data. Gave career/research advice.<br>
-Post-graduation outcomes of the 3 undergraduates:
+Post-graduation outcomes of the 3 undergraduates:<br>
 (1) data analyst @[BoxLunch](https://www.boxlunch.com/homepage?cm_mmc=SEM-_-GGL-_-BR-_-DMY-_-541787926_57911524309&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP-FK2iMX9GHn7rNmiIQvYcnjXlKJkunprrDSj0u4bnXOVlWWHPe9YBoC1TMQAvD_BwE)<br>
  (2) research scientist @[Alkahest](https://www.alkahest.com/)<br>
  (3) applying to medical school<br>
@@ -143,7 +143,8 @@ _[UCSF SRTP](https://graduate.ucsf.edu/srtp)_<br>
 Developed curriculum for and taught curriculum to teach rising junior and senior undergraduates on:<br>
  (1) how to become a strong graduate school applicant<br>
  (2) how to create compelling posters and presentations<br>
- (3) how to write personal statements (4) how to read and dissect scientific papers.<br>
+ (3) how to write personal statements<br>
+ (4) how to read and dissect scientific papers.<br>
 
 <br><br>
 
