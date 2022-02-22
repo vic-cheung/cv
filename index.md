@@ -38,7 +38,9 @@ Vision: _Linking Circuits, Perception, and Behavior_
 `SEP 2021 - Present`
 __Oncology Bioinformatics & Molecular Oncology PhD Intern__, *[Genentech](https://www.gene.com/)*<br>
 Characterized gene signature development and refinement for T cell signaling pathways in cancer models<br>
-<p>Wrote a data processing pipeline utilizing Scanpy, Numpy, Pandas, scikit-learn. Performed statistical analyses on different drug treatment populations (gene set enrichment analysis, differential gene expression analysis). Utilized supervised batch correction techniques and unsupervised clustering algorithms (UMAP, topic modeling) to visualize and analyze single cell RNA seq data outputs. Wrote custom plotting functions using Matplotlib to better visualize the effect of drug treatments.</p>
+Wrote a data processing pipeline utilizing Scanpy, Numpy, Pandas, scikit-learn.<br>
+Performed statistical analyses on different drug treatment populations (gene set enrichment analysis, differential gene expression analysis).<br> Utilized supervised batch correction techniques and unsupervised clustering algorithms (UMAP, topic modeling) to visualize and analyze single cell RNA seq data outputs.<br>
+Wrote custom plotting functions using Matplotlib to better visualize the effect of drug treatments.<br>
 
 ___Technologies used:___<br>
 - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
