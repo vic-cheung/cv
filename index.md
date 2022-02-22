@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Victoria Cheung
+title: Victoria Cheung, PhD
 ---
 # Victoria Cheung, PhD
 Bioinformatician | Computational Biologist
