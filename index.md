@@ -44,6 +44,8 @@ ___Technologies used:___<br>
 - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
 - R (fgsea, SingleCellExperiment, Seurat)<br>
 
+
+
 `JUL 2016 - DEC 2021`
 __GRADUATE RESEARCHER IN SINGLE-CELL OMICS, SYSTEMS NEUROSCIENCE__, *[Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)*<br>
 __Project 1__<br>
@@ -58,6 +60,7 @@ ___Technologies used:___<br>
  - Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing
  - stereotaxic surgeries, viral delivery
 
+
 __Project 2__<br>
 Designed an audition-based behavioral paradigm to study sensorimotor integration in the context of mice.<br>
 <p>Wrote custom software to support custom-built hardware using serial communication between MATLAB and an Arduino microprocessor, which increased productivity by - 6-fold from the parallelization and automation of data acquisition, storage, and analysis. Used this system in exploring how sensory input is represented in the brain and transformed into behavioral commands, using mice as the model organism. Wrote custom analyses software to automate, refine, and interpret both raw behavioral data and fiber photometry signals. Used CAD software to design and 3D print custom behavioral apparatuses. Refined surgical protocols to increase survival surgery success by 20%. Delivery of viruses, drugs, and organic dyes into the mouse brain. Performed physiology recordings on brain slices to validate optogenetic and fiber photometry experiments. Assembled fiber photometry and optogenetic manipulation equipment to record and perturb neuronal activity in the context of quantitative behavioral assays.</p>
@@ -70,6 +73,8 @@ ___Technologies used:___<br>
 - stereotaxic surgeries, viral delivery, fiber optic implants
 - fiber photometry, optogenetics
 - immunohistochemistry
+
+
 
 `MAY 2020 - JUL 2020`
 __HEALTH DATA SCIENCE FELLOW__, *[Insight Data Science](https://insightfellows.com/health-data) @Silicon Valley*<br>
@@ -87,11 +92,15 @@ __[GENENTECH](https://www.gene.com/) DISCOVERY PROGRAM L.E.A.D SUPPLY CHAIN__<br
 _[Certification](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_SupplyChainCertificate.pdf)_<br>
 <p>Learned about the fundamentals of supply chain, how the supply chain spans a variety of roles throughout Genentech's delivery of therapies as well as its involvement in providing medication access to underserved communities and its drive towards sustainability. Chatted with supply chain business leaders to interact with individuals in the industry. Discussed the transferability of skills from the PhD to business/supply chain. Participated as Operations Lead in a supply chain simulation where my team and I placed second overall.</p>
 
+
+
 `APR 2016 - JUN 2016`
 __GRADUATE RESEARCHER--rotation__,
 _[Guo Huang Lab](https://www.cvri.ucsf.edu/~huang/lab/Research.html) @ UCSF_<br>
 Area of Research: Regenerative Potential of Cardiomyocytes<br>
 <p>Performed heart explants for cell culture and subsequent drug studies for the purpose of exploring organ regeneration and repair in neonatal mice—with an emphasis on the pathways that regulate resident stem cell activation and mature cell de-differentiation/proliferation. Explored organ regeneration and development from an evolutionary standpoint across different species of animals i.e. naked mole rat, finch, rat, mouse, zebrafish. Utilized innovative and integrated approaches in engineering, single cell analysis, advanced imaging microscopy, drug delivery, and genome manipulation technology.</p>
+
+
 
 `SEP 2015 - DEC 2015`
 __GRADUATE RESEARCHER--rotation__,
@@ -99,12 +108,16 @@ _[Dengke Ma Lab](https://malab.ucsf.edu/research) @ UCSF_<br>
 Area of Research: Homeostatic Response to Extreme Abiotic Factors<br>
 <p>Created a functional mutant line in C. elegans via cDNA microinjections and exposed the mutants to extreme abiotic environments via behavioral assays to understand cellular intrinsic tolerance of hypoxia/anoxia and hypothermia. Utilized RNA-seq to identify genes implicated in cryopreservation/hypoxia-tolerance with therapeutic potential. Obtained qualitative behavioral data on how animals sensed and responded to changes in internal states to elicit behavior and maintain homeostasis.</p>
 
+
+
 `SEP 2012 - JUL 2015`
 __RESEARCH FELLOWSHIP: [UCLEADS](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html) & [STARS](https://grad.ucsd.edu/diversity/programs/stars/index.html)__,
 _[Andrew D. Huberman Lab](https://hubermanlab.com/about/) @ UCSD_<br>
 Area of Research: Binocular Plasticity & Dynamic Strategy Implementation in Cuttlefish <br>
 <p>Developed a model of visual perception and prey capture using cuttlefish to study the neural circuit organization supporting flexible eye movements. Underlying goal: provide insight into amblyopia (lazy eye).</p>
 <p>Optimized behavioral parameters and refined surgical techniques for the novel model organism. Increased consistency between experiments for reproducibility. Optimized tracking and analysis of dynamical eye movements using multi-planar high-speed imaging and Simi Motion software. Increased productivity and output by 40%. 3D-reconstructed neuron structure for morphometric analysis using Neurolucida.</p>
+
+
 
 `JUN 2014 - SEP 2014`
 __RESEARCH FELLOWSHIP: [UCSF SRTP](https://graduate.ucsf.edu/srtp)__,
@@ -118,15 +131,21 @@ Area of Research: Effects of Light Dependent Ca<sup>2+</sup> Signaling during re
 __MENTOR FOR UNDERGRADUATES__,
 <p>Trained and mentored 3 undergraduates on performing research tasks on how to: think independently, plan experiments, perform surgical protocols, and analyze data. Gave career/research advice. Post-graduation outcomes of the 3 undergraduates: (1) data analyst @[BoxLunch](https://www.boxlunch.com/homepage?cm_mmc=SEM-_-GGL-_-BR-_-DMY-_-541787926_57911524309&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP-FK2iMX9GHn7rNmiIQvYcnjXlKJkunprrDSj0u4bnXOVlWWHPe9YBoC1TMQAvD_BwE) (2) research scientist @[Alkahest](https://www.alkahest.com/) (3) applying to medical school</p>
 
+
+
 `JUN 2019 - AUG 2019`
 __STUDENT ADVISOR__,
 _[UCSF SRTP](https://graduate.ucsf.edu/srtp)_<br>
 <p>Developed curriculum for and taught curriculum to teach rising junior and senior undergraduates on: (1) how to become a strong graduate school applicant (2) how to create compelling posters and presentations (3) how to write personal statements (4) how to read and dissect scientific papers.</p>
- 
+
+
+
  `JAN 2016 - JUN 2016`
 __STUDENT TEACHER__,
 _[UCSF Science and Health Education Partnership](https://sep.ucsf.edu/what-we-do/)_<br>
 <p>Created and developed a series of interactive and investigative lesson plans to teach freshman biology. Mentored URMs and socioeconomically disadvantaged students on different career paths in science.</p>
+
+
 
  `MAR 2013 - JUN 2015`
 __UC LEADERSHIP EXCELLENCE THROUGH ADVANCED DEGREES SCHOLAR SCHOLAR (UCLEADS)__,
@@ -143,61 +162,60 @@ __Cheung, V.__, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg
 __Cheung, V.__ "[Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)" Towards Data Science. Medium, 20 Jun. 2020. Web.<br>
 
 
-### Conference Proceedings
-#### _SCIENTIFIC_:
+### Conferences (scientific)
 
 `2021`
-__UCSF S.O.L.V.E. Health Tech: Digital Health Equity Summit__ Attendee
+UCSF S.O.L.V.E. Health Tech: Digital Health Equity Summit __Attendee__
 
 `2021`
-__COSYNE (computational and systems neuroscience)__ Attendee
+COSYNE (computational and systems neuroscience) __Attendee__
 
 `2018`
-__UCSF Tetrad__ Presenter, _15 min talk_
+UCSF Tetrad __Presenter__, _15 min talk_
 
 `2017`
-__SFN Annual Conference__ Attendee
+SFN Annual Conference __Attendee__
 
 `2017`
-__UCSF Tetrad__ Presenter, _poster presentation_
+UCSF Tetrad __Presenter__, _poster presentation_
 
 `2016`
-__UC LEADs Research Symposium__ Attendee
+UC LEADs Research Symposium __Attendee__
 
 `2015`
-__UC LEADs Research Symposium__ Presenter, _poster presentation_
+UC LEADs Research Symposium __Presenter__, _poster presentation_
 
 `2014`
-__SFN Annual Conference__ Presenter, _poster presentation_
+SFN Annual Conference __Presenter__, _poster presentation_
 
 `2014`
-__UCSF Summer Research Training Program Symposium__ Presenter, _poster presentation + 15 min talk_
+UCSF Summer Research Training Program Symposium __Presenter__, _poster presentation + 15 min talk_
 
 `2014`
-__UCSD Academic Enrichment Program__ Presenter, _poster presentation_
+UCSD Academic Enrichment Program __Presenter__, _poster presentation_
 
 `2014`
-__SACNAS National Conference__  Presenter, _poster presentation_
+SACNAS National Conference __Presenter__, _poster presentation_
 
 `2014`
-__UCLEADs Annual Research Symposium__ Presenter, _poster presentation_
+UCLEADs Annual Research Symposium __Presenter__, _poster presentation_
 
 `2013`
-__UCSD Academic Enrichment Program__ Presenter, _poster presentation_
+UCSD Academic Enrichment Program __Presenter__, _poster presentation_
 
 `2013`
-__SACNAS National Conference__ Presenter, _poster presentation_
+SACNAS National Conference __Presenter__, _poster presentation_
 
 `2013`
-__UCSD STARS Summer Research Conference__ Presenter, _15 min talk_
+UCSD STARS Summer Research Conference __Presenter__, _15 min talk_
 
-#### _DIVERSITY_:
+### Conferences (diversity)
 
 `2019`
-__Northern California Forum for Diversity in Graduate Education__ Speaker (1hr)
+Northern California Forum for Diversity in Graduate Education __Speaker__ (1hr)
 
 `2018`
-__Northern California Forum for Diversity in Graduate Education__ Speaker (1hr)
+Northern California Forum for Diversity in Graduate Education __Speaker__ (1hr)
 
 ## Honors and Awards
 
