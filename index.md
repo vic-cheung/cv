@@ -129,14 +129,21 @@ Area of Research: Effects of Light Dependent Ca<sup>2+</sup> Signaling during re
 
 `JUN 2026 - SEP 2021`
 __MENTOR FOR UNDERGRADUATES__,
-<p>Trained and mentored 3 undergraduates on performing research tasks on how to: think independently, plan experiments, perform surgical protocols, and analyze data. Gave career/research advice. Post-graduation outcomes of the 3 undergraduates: (1) data analyst @[BoxLunch](https://www.boxlunch.com/homepage?cm_mmc=SEM-_-GGL-_-BR-_-DMY-_-541787926_57911524309&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP-FK2iMX9GHn7rNmiIQvYcnjXlKJkunprrDSj0u4bnXOVlWWHPe9YBoC1TMQAvD_BwE) (2) research scientist @[Alkahest](https://www.alkahest.com/) (3) applying to medical school</p>
+Trained and mentored 3 undergraduates on performing research tasks on how to: think independently, plan experiments, perform surgical protocols, and analyze data. Gave career/research advice.<br>
+Post-graduation outcomes of the 3 undergraduates:
+(1) data analyst @[BoxLunch](https://www.boxlunch.com/homepage?cm_mmc=SEM-_-GGL-_-BR-_-DMY-_-541787926_57911524309&gclid=CjwKCAiAx8KQBhAGEiwAD3EiP-FK2iMX9GHn7rNmiIQvYcnjXlKJkunprrDSj0u4bnXOVlWWHPe9YBoC1TMQAvD_BwE)<br>
+ (2) research scientist @[Alkahest](https://www.alkahest.com/)<br>
+ (3) applying to medical school<br>
 
 <br><br>
 
 `JUN 2019 - AUG 2019`
 __STUDENT ADVISOR__,
 _[UCSF SRTP](https://graduate.ucsf.edu/srtp)_<br>
-<p>Developed curriculum for and taught curriculum to teach rising junior and senior undergraduates on: (1) how to become a strong graduate school applicant (2) how to create compelling posters and presentations (3) how to write personal statements (4) how to read and dissect scientific papers.</p>
+Developed curriculum for and taught curriculum to teach rising junior and senior undergraduates on:<br>
+ (1) how to become a strong graduate school applicant<br>
+ (2) how to create compelling posters and presentations<br>
+ (3) how to write personal statements (4) how to read and dissect scientific papers.<br>
 
 <br><br>
 
@@ -151,7 +158,9 @@ _[UCSF Science and Health Education Partnership](https://sep.ucsf.edu/what-we-do
 __UC LEADERSHIP EXCELLENCE THROUGH ADVANCED DEGREES SCHOLAR SCHOLAR (UCLEADS)__,
 _[UCSD](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html)_<br>
 "Mentorship program for underprivileged and socioeconomically disadvantaged undergraduates for success in graduate school to later assume positions of leadership in industry, government, public service, and academia following completion of a doctoral STEM degree"<br>
-<p>Two-way avenue: (1) Received mentorship from prior two cohorts as part of the incoming cohort (2) Provided mentorship to the next two cohorts while progressing through the program</p>
+Two-way avenue:<br>
+ (1) Received mentorship from prior two cohorts as part of the incoming cohort<br>
+ (2) Provided mentorship to the next two cohorts while progressing through the program<br>
 
 ## Publications
 
