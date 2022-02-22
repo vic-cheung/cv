@@ -59,7 +59,7 @@ Implemented nearest neighbors algorithms to account for batch differences when m
 Streamlined brain dissociation techniques and increased neuron survivability yield 100-fold based on data-driven outcomes from clustering analyses.<br>
 Validated clustering results of single-cell sequencing against the [2020 10x sequencing dataset from the Allen Atlas](https://portal.brain-map.org/atlases-and-data/rnaseq/mouse-whole-cortex-and-hippocampus-10x) and that the methodology was functional.<br>
 Evaluated range of highly variable genes expressed per cluster for the validation of cell identity.<br>
-Managed collaborations with the Chan-Zuckerberg Biohub (Spyros Darmanis Group, now @ Genentech).</p>
+Managed collaborations with the Chan-Zuckerberg Biohub (Spyros Darmanis Group, now @ Genentech).<br>
 
 ___Technologies used:___<br>
  - AWS (EC2/S3)
