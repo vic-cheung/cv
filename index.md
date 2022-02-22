@@ -14,12 +14,12 @@ Bioinformatician | Computational Biologist
 ## Education
 
 `2015-2021`
-__(UCSF) University of California, San Francisco__,
-Ph.D. Genetics; concentration in Neuroscience
+(__UCSF__) University of California, San Francisco,
+__Ph.D.__ Genetics; concentration in Neuroscience
 
 `2011-2015`
-__(UCSD) University of California, San Diego__,
-B.S. Microbiology; minor: Chinese Studies
+(__UCSD__) University of California, San Diego,
+__B.S.__ Microbiology; minor: Chinese Studies
 
 ## Additional Courses
 
