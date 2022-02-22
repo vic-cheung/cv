@@ -44,7 +44,7 @@ ___Technologies used:___<br>
 - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
 - R (fgsea, SingleCellExperiment, Seurat)<br>
 
-
+<br><br>
 
 `JUL 2016 - DEC 2021`
 __GRADUATE RESEARCHER IN SINGLE-CELL OMICS, SYSTEMS NEUROSCIENCE__, *[Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)*<br>
@@ -59,7 +59,6 @@ ___Technologies used:___<br>
  - FIJI, Zen
  - Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing
  - stereotaxic surgeries, viral delivery
-
 <br>
 
 __Project 2__<br>
