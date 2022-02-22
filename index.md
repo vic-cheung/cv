@@ -36,8 +36,7 @@ Vision: _Linking Circuits, Perception, and Behavior_
 ### Career-related
 
 `SEP 2021 - Present`
-__ONCOLOGY BIOINFORMATICS & MOLECULAR ONCOLOGY PHD INTERN__<br>
-*[Genentech](https://www.gene.com/)*<br>
+__ONCOLOGY BIOINFORMATICS & MOLECULAR ONCOLOGY PHD INTERN__, *[Genentech](https://www.gene.com/)*<br>
 Characterized gene signature development and refinement for T cell signaling pathways in cancer models<br>
 - Wrote a data processing pipeline utilizing Scanpy, Numpy, Pandas, scikit-learn 
 - Performed statistical analyses on different drug treatment populations.
@@ -51,8 +50,7 @@ Characterized gene signature development and refinement for T cell signaling pat
  - R (fgsea, SingleCellExperiment, Seurat)<br>
 
 `JUL 2016 - DEC 2021`
-__GRADUATE RESEARCHER IN SINGLE-CELL OMICS, SYSTEMS NEUROSCIENCE__<br>
-*[Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)*<br>
+__GRADUATE RESEARCHER IN SINGLE-CELL OMICS, SYSTEMS NEUROSCIENCE__, *[Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)*<br>
 **Project 1**<br>
 Developed a multiplexed, high-throughput, single-cell sequencing method for neurons that preserve connectivity information in addition to obtaining molecular identity (VECTORseq). Git Repo [here](https://github.com/vic-cheung/vectorseq).
 - Wrote the data processing pipeline using Python after genome alignment using Cellranger (10x Genomics) on an AWS EC2 instance.
@@ -64,12 +62,12 @@ Developed a multiplexed, high-throughput, single-cell sequencing method for neur
 - Managed collaborations with the Chan-Zuckerberg Biohub (Spyros Darmanis Group, now @ Genentech)
 
 **_Technologies used:_**<br>
- - AWS (EC2/S3)
- - Linux, bash, CellRanger
- - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
- - FIJI, Zen
- - Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing
- - stereotaxic surgeries, viral delivery
+   - AWS (EC2/S3)
+   - Linux, bash, CellRanger
+   - Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
+   - FIJI, Zen
+   - Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing
+   - stereotaxic surgeries, viral delivery
 
 **Project 2**<br>
 Designed an audition-based behavioral paradigm to study sensorimotor integration in the context of mice.<br>
@@ -82,26 +80,25 @@ Designed an audition-based behavioral paradigm to study sensorimotor integration
 - Assembled fiber photometry and optogenetic manipulation equipment to record and perturb neuronal activity in the context of quantitative behavioral assays.
 
 **_Technologies used:_**<br>
- - CAD Software (Onshape, Cura, eMachineShop)
- - MATLAB
- - Arduino (Uno)
- - FIJI, Zen
- - stereotaxic surgeries, viral delivery, fiber optic implants
- - fiber photometry, optogenetics
- - immunohistochemistry
+   - CAD Software (Onshape, Cura, eMachineShop)
+   - MATLAB
+   - Arduino (Uno)
+   - FIJI, Zen
+   - stereotaxic surgeries, viral delivery, fiber optic implants
+   - fiber photometry, optogenetics
+   - immunohistochemistry
 
 `MAY 2020 - JUL 2020`
-__HEALTH DATA SCIENCE FELLOW__<br>
-*[Insight Data Science](https://insightfellows.com/health-data) @Silicon Valley*<br>
+__HEALTH DATA SCIENCE FELLOW__, *[Insight Data Science](https://insightfellows.com/health-data) @Silicon Valley*<br>
 Developed a predictive clinical calculator to assess Acute Kidney Injury in hospitalized patients, which would result in better management, care/medication dosing, injury prevention, and reduced hospital length of stay, thus freeing up occupied resources and minimizing financial costs to both patient and hospital.
 - Utilized PostgreSQL querying to gather relevant data from the MIMIC-III database and manipulated the data with Python Pandas from 25 tables of data, 46,000 patients, thousands of diagnoses and lab tests, and clinical documentation-- generating over 3 million rows of data and 70 unique features comprising lab tests and demographic information. 
 - Used supervised machine learning in Python such as regression models from scikit-learn and XGBoost to forecast Acute Kidney Injury, with a predictive accuracy of ~91%.
 - Medium Article in Towards Data Science: [Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)
 
 **_Technologies used:_**<br>
- - Python (NumPy, scikit-learn, Matplotlib, SciPy, XGBoost)
- - AWS (EC2, S3, Route 53)
- - Streamlit
+   - Python (NumPy, scikit-learn, Matplotlib, SciPy, XGBoost)
+   - AWS (EC2, S3, Route 53)
+   - Streamlit
 
 ### Other
 
