@@ -49,8 +49,8 @@ ___Technologies used:___<br>
 
 <br><br>
 
-`JUL 2016 - DEC 2021`
 *[Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)*<br>
+`JUL 2016 - DEC 2021`
 __Graduate Resarcher in Single-cell Omics, Systems Neuroscience__<br>
 __Project 1__<br>
 Developed a multiplexed, high-throughput, single-cell sequencing method for neurons that preserve connectivity information in addition to obtaining molecular identity (VECTORseq). Git Repo [here](https://github.com/vic-cheung/vectorseq).<br>
@@ -94,8 +94,8 @@ ___Technologies used:___<br>
 
 <br><br>
 
-`MAY 2020 - JUL 2020`
 *[Insight Data Science](https://insightfellows.com/health-data) @Silicon Valley*<br>
+`MAY 2020 - JUL 2020`
 __Health Data Science Fellow__<br>
 <p>Developed a predictive clinical calculator to assess Acute Kidney Injury in hospitalized patients, which would result in better management, care/medication dosing, injury prevention, and reduced hospital length of stay, thus freeing up occupied resources and minimizing financial costs to both patient and hospital.</p>
 Utilized PostgreSQL querying to gather relevant data from the MIMIC-III database and manipulated the data with Python Pandas from 25 tables of data, 46,000 patients, thousands of diagnoses and lab tests, and clinical documentation-- generating over 3 million rows of data and 70 unique features comprising lab tests and demographic information.<br>
@@ -109,8 +109,8 @@ ___Technologies used:___<br>
 
 ### Other
 
-`2013-2018`
 _[Genentech](https://www.gene.com/)_<br>
+`2013-2018`
 __[Genentech] Discovery Program L.E.A.D Supply Chain__<br>
 _[Certification](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_SupplyChainCertificate.pdf)_<br>
 Learned about the fundamentals of supply chain, how the supply chain spans a variety of roles throughout Genentech's delivery of therapies as well as its involvement in providing medication access to underserved communities and its drive towards sustainability.<br>
@@ -120,8 +120,8 @@ Participated as Operations Lead in a supply chain simulation where my team and I
 
 <br><br>
 
-`APR 2016 - JUN 2016`
 _[Guo Huang Lab](https://www.cvri.ucsf.edu/~huang/lab/Research.html) @ UCSF_<br>
+`APR 2016 - JUN 2016`
 __Graduate Researcher--rotation__<br>
 Area of Research: Regenerative Potential of Cardiomyocytes<br>
 Performed heart explants for cell culture and subsequent drug studies for the purpose of exploring organ regeneration and repair in neonatal mice—with an emphasis on the pathways that regulate resident stem cell activation and mature cell de-differentiation/proliferation.<br>
@@ -130,8 +130,8 @@ Utilized innovative and integrated approaches in engineering, single cell analys
 
 <br><br>
 
-`SEP 2015 - DEC 2015`
 _[Dengke Ma Lab](https://malab.ucsf.edu/research) @ UCSF_<br>
+`SEP 2015 - DEC 2015`
 __Graduate Researcher--rotation__<br>
 Area of Research: Homeostatic Response to Extreme Abiotic Factors<br>
 Created a functional mutant line in C. elegans via cDNA microinjections and exposed the mutants to extreme abiotic environments via behavioral assays to understand cellular intrinsic tolerance of hypoxia/anoxia and hypothermia.<br>
@@ -140,8 +140,8 @@ Obtained qualitative behavioral data on how animals sensed and responded to chan
 
 <br><br>
 
-`SEP 2012 - JUL 2015`
 _[Andrew D. Huberman Lab](https://hubermanlab.com/about/) @ UCSD_<br>
+`SEP 2012 - JUL 2015`
 __Reasearch Fellowship: [UCLEADS](https://www.ucop.edu/graduate-studies/initiatives-outreach/uc-leads.html) & [STARS](https://grad.ucsd.edu/diversity/programs/stars/index.html)__<br>
 Area of Research: Binocular Plasticity & Dynamic Strategy Implementation in Cuttlefish <br>
 Developed a model of visual perception and prey capture using cuttlefish to study the neural circuit organization supporting flexible eye movements. Underlying goal: provide insight into amblyopia (lazy eye).<br>
@@ -152,8 +152,8 @@ Optimized tracking and analysis of dynamical eye movements using multi-planar hi
 
 <br><br>
 
-`JUN 2014 - SEP 2014`
 _[David R. Copenhagen Lab](https://neurograd.ucsf.edu/people/david-copenhagen-phd) @ UCSF_<br>
+`JUN 2014 - SEP 2014`
 __Research Fellowship: [UCSF SRTP](https://graduate.ucsf.edu/srtp)__<br>
 Area of Research: Effects of Light Dependent Ca<sup>2+</sup> Signaling during retinal development<br>
 Explored the effects of light dependent Ca<sup>2+</sup> waves in the developing mouse retina with a focus on the coupling of amacrine cells to melanopsin ganglion cells via gap junctions.<br>
@@ -172,8 +172,8 @@ Post-graduation outcomes of the 3 undergraduates:<br>
 
 <br><br>
 
-`JUN 2019 - AUG 2019`
 _[UCSF SRTP](https://graduate.ucsf.edu/srtp)_<br>
+`JUN 2019 - AUG 2019`
 __STUDENT ADVISOR__,
 Developed curriculum for and taught curriculum to teach rising junior and senior undergraduates on:<br>
  (1) how to become a strong graduate school applicant<br>
@@ -183,8 +183,8 @@ Developed curriculum for and taught curriculum to teach rising junior and senior
 
 <br><br>
 
-`JAN 2016 - JUN 2016`
 _[UCSF Science and Health Education Partnership](https://sep.ucsf.edu/what-we-do/)_<br>
+`JAN 2016 - JUN 2016`
 __STUDENT TEACHER__,
 Created and developed a series of interactive and investigative lesson plans to teach freshman biology.<br>
 Mentored URMs and socioeconomically disadvantaged students on different career paths in science.<br>
