@@ -35,8 +35,8 @@ Vision: _Linking Circuits, Perception, and Behavior_
 
 ### Career-related
 
-`SEP 2021 - Present`
 *[Genentech](https://www.gene.com/)*<br>
+`SEP 2021 - Present`
 __Oncology Bioinformatics & Molecular Oncology PhD Intern__<br>
 Characterized gene signature development and refinement for T cell signaling pathways in cancer models<br>
 Wrote a data processing pipeline utilizing Scanpy, Numpy, Pandas, scikit-learn.<br>
@@ -96,11 +96,11 @@ ___Technologies used:___<br>
 
 `MAY 2020 - JUL 2020`
 *[Insight Data Science](https://insightfellows.com/health-data) @Silicon Valley*<br>
-__HEALTH DATA SCIENCE FELLOW__<br>
+__Health Data Science Fellow__<br>
 <p>Developed a predictive clinical calculator to assess Acute Kidney Injury in hospitalized patients, which would result in better management, care/medication dosing, injury prevention, and reduced hospital length of stay, thus freeing up occupied resources and minimizing financial costs to both patient and hospital.</p>
 Utilized PostgreSQL querying to gather relevant data from the MIMIC-III database and manipulated the data with Python Pandas from 25 tables of data, 46,000 patients, thousands of diagnoses and lab tests, and clinical documentation-- generating over 3 million rows of data and 70 unique features comprising lab tests and demographic information.<br>
 Used supervised machine learning in Python such as regression models from scikit-learn and XGBoost to forecast Acute Kidney Injury, with a predictive accuracy of ~91%.<br>
-Medium Article in Towards Data Science: [Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67).<br>
+Medium Article in Towards Data Science: [Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning(https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67).<br>
 
 ___Technologies used:___<br>
 - Python (NumPy, scikit-learn, Matplotlib, SciPy, XGBoost)
@@ -111,7 +111,7 @@ ___Technologies used:___<br>
 
 `2013-2018`
 _[Genentech](https://www.gene.com/)_<br>
-__[Genentech](https://www.gene.com/) Discovery Program L.E.A.D Supply Chain__<br>
+__[Genentech] Discovery Program L.E.A.D Supply Chain__<br>
 _[Certification](https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_SupplyChainCertificate.pdf)_<br>
 Learned about the fundamentals of supply chain, how the supply chain spans a variety of roles throughout Genentech's delivery of therapies as well as its involvement in providing medication access to underserved communities and its drive towards sustainability.<br>
 Chatted with supply chain business leaders to interact with individuals in the industry.<br>
