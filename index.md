@@ -210,57 +210,57 @@ __Cheung, V.__ "[Predicting Acute Kidney Injury in Hospitalized Patients Using M
 ### Scientific
 
 `2021`
-UCSF S.O.L.V.E. Health Tech: Digital Health Equity Summit __Attendee__
+UCSF S.O.L.V.E. Health Tech: Digital Health Equity Summit | __Attendee__
 
 `2021`
-COSYNE (computational and systems neuroscience) __Attendee__
+COSYNE (computational and systems neuroscience) | __Attendee__
 
 `2018`
-UCSF Tetrad __Presenter__, _15 min talk_
+UCSF Tetrad | __Presenter__, _15 min talk_
 
 `2017`
-SFN Annual Conference __Attendee__
+SFN Annual Conference | __Attendee__
 
 `2017`
-UCSF Tetrad __Presenter__, _poster presentation_
+UCSF Tetrad | __Presenter__, _poster presentation_
 
 `2016`
-UC LEADs Research Symposium __Attendee__
+UC LEADs Research Symposium | __Attendee__
 
 `2015`
-UC LEADs Research Symposium __Presenter__, _poster presentation_
+UC LEADs Research Symposium | __Presenter__, _poster presentation_
 
 `2014`
-SFN Annual Conference __Presenter__, _poster presentation_
+SFN Annual Conference | __Presenter__, _poster presentation_
 
 `2014`
-UCSF Summer Research Training Program Symposium __Presenter__, _poster presentation + 15 min talk_
+UCSF Summer Research Training Program Symposium | __Presenter__, _poster presentation + 15 min talk_
 
 `2014`
-UCSD Academic Enrichment Program __Presenter__, _poster presentation_
+UCSD Academic Enrichment Program | __Presenter__, _poster presentation_
 
 `2014`
-SACNAS National Conference __Presenter__, _poster presentation_
+SACNAS National Conference | __Presenter__, _poster presentation_
 
 `2014`
-UCLEADs Annual Research Symposium __Presenter__, _poster presentation_
+UCLEADs Annual Research Symposium | __Presenter__, _poster presentation_
 
 `2013`
-UCSD Academic Enrichment Program __Presenter__, _poster presentation_
+UCSD Academic Enrichment Program | __Presenter__, _poster presentation_
 
 `2013`
-SACNAS National Conference __Presenter__, _poster presentation_
+SACNAS National Conference | __Presenter__, _poster presentation_
 
 `2013`
-UCSD STARS Summer Research Conference __Presenter__, _15 min talk_
+UCSD STARS Summer Research Conference | __Presenter__, _15 min talk_
 
 ### Diversity and Outreach
 
 `2019`
-Northern California Forum for Diversity in Graduate Education __Speaker__ (1hr)
+Northern California Forum for Diversity in Graduate Education | __Speaker__ (1hr)
 
 `2018`
-Northern California Forum for Diversity in Graduate Education __Speaker__ (1hr)
+Northern California Forum for Diversity in Graduate Education | __Speaker__ (1hr)
 
 ## Honors and Awards
 
