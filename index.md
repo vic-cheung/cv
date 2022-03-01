@@ -44,7 +44,7 @@ __Oncology Bioinformatics & Molecular Oncology PhD Intern__<br>
 -Wrote custom plotting functions using Matplotlib to better visualize the effect of drug treatments.<br>
 
 ___Technologies used:___<br>
--Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)<br>
+-Python (ScanPy, NumPy, pandas, scikit-learn, Matplotlib, SciPy)<br>
 -R (fgsea, SingleCellExperiment, Seurat)<br>
 
 <br><br>
@@ -65,7 +65,7 @@ Developed a multiplexed, high-throughput, single-cell sequencing method for neur
 ___Technologies used:___<br>
  -AWS (EC2/S3)<br>
  -Linux, bash, CellRanger<br>
- -Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)<br>
+ -Python (ScanPy, NumPy, pandas, scikit-learn, Matplotlib, SciPy)<br>
  -FIJI, Zen<br>
  -Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing<br>
  -stereotaxic surgeries, viral delivery<br>
@@ -102,7 +102,8 @@ __Health Data Science Fellow__<br>
 -Medium Article in Towards Data Science: [Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67).<br>
 
 ___Technologies used:___<br>
--Python (NumPy, scikit-learn, Matplotlib, SciPy, XGBoost)<br>
+-Python (NumPy, pandas, scikit-learn, Matplotlib, SciPy, XGBoost)<br>
+- SQL
 -AWS (EC2, S3, Route 53)<br>
 -Streamlit<br>
 
