@@ -159,7 +159,7 @@ Area of Research: Effects of Light Dependent Ca<sup>2+</sup> Signaling during re
 -Characterized appropriate transgenic lines and established baseline comparisons in adult retina to observe and document deviations from the developed animal to the developing animal.<br>
 -Performed retinal dissections for cell coupling studies.<br>
 
-## MENTORSHIP & DIVERSITY
+## Mentorship & Diversity
 
 `JUN 2026 - SEP 2021`
 __Mentor for Undergraduates__<br>
