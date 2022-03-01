@@ -44,7 +44,7 @@ __Oncology Bioinformatics & Molecular Oncology PhD Intern__<br>
 -Wrote custom plotting functions using Matplotlib to better visualize the effect of drug treatments.<br>
 
 ___Technologies used:___<br>
--Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
+-Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)<br>
 -R (fgsea, SingleCellExperiment, Seurat)<br>
 
 <br><br>
