@@ -263,6 +263,7 @@ Northern California Forum for Diversity in Graduate Education | __Speaker__ (1hr
 Northern California Forum for Diversity in Graduate Education | __Speaker__ (1hr)
 
 ## Honors and Awards
+`2022` UCSF Diversity Graduation, Graduate Division Speaker
 
 `2017` Helmsley Scholar
 
