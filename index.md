@@ -63,12 +63,12 @@ Developed a multiplexed, high-throughput, single-cell sequencing method for neur
 -Managed collaborations with the Chan-Zuckerberg Biohub (Spyros Darmanis Group, now @ Genentech).<br>
 
 ___Technologies used:___<br>
- -AWS (EC2/S3)
- -Linux, bash, CellRanger
- -Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)
- -FIJI, Zen
- -Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing
- -stereotaxic surgeries, viral delivery
+ -AWS (EC2/S3)<br>
+ -Linux, bash, CellRanger<br>
+ -Python (ScanPy, NumPy, scikit-learn, Matplotlib, SciPy)<br>
+ -FIJI, Zen<br>
+ -Illumina Next Gen Sequencing, 10x Genomics 5' Sequencing<br>
+ -stereotaxic surgeries, viral delivery<br>
 <br>
 
 __Project 2__<br>
@@ -83,13 +83,13 @@ Designed an audition-based behavioral paradigm to study sensorimotor integration
 -Assembled fiber photometry and optogenetic manipulation equipment to record and perturb neuronal activity in the context of quantitative behavioral assays.<br>
 
 ___Technologies used:___<br>
--CAD Software (Onshape, Cura, eMachineShop)
--MATLAB
--Arduino (Uno)
--FIJI, Zen
--stereotaxic surgeries, viral delivery, fiber optic implants
--fiber photometry, optogenetics
--immunohistochemistry
+-CAD Software (Onshape, Cura, eMachineShop)<br>
+-MATLAB<br>
+-Arduino (Uno)<br>
+-FIJI, Zen<br>
+-stereotaxic surgeries, viral delivery, fiber optic implants<br>
+-fiber photometry, optogenetics<br>
+-immunohistochemistry<br>
 
 <br><br>
 
@@ -102,9 +102,9 @@ __Health Data Science Fellow__<br>
 -Medium Article in Towards Data Science: [Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67).<br>
 
 ___Technologies used:___<br>
--Python (NumPy, scikit-learn, Matplotlib, SciPy, XGBoost)
--AWS (EC2, S3, Route 53)
--Streamlit
+-Python (NumPy, scikit-learn, Matplotlib, SciPy, XGBoost)<br>
+-AWS (EC2, S3, Route 53)<br>
+-Streamlit<br>
 
 ### Other
 
@@ -147,7 +147,7 @@ Area of Research: Binocular Plasticity & Dynamic Strategy Implementation in Cutt
 -Optimized behavioral parameters and refined surgical techniques for the novel model organism.<br>
 -Increased consistency between experiments for reproducibility.<br>
 -Streamlined tracking and analysis of dynamical eye movements using multi-planar high-speed imaging and Simi Motion software and increased productivity and output by 40%.<br>
-3D-reconstructed neuron structure for morphometric analysis using Neurolucida.<br>
+-3D-reconstructed neuron structure for morphometric analysis using Neurolucida.<br>
 
 <br><br>
 
