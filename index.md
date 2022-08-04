@@ -320,4 +320,5 @@ __UCSF Poster__, [First Generation to College](https://docs.google.com/viewer?ur
 __UCSF Article__, [Students Who Are First in Their Family to Attend College Share Stories, Experiences](https://www.ucsf.edu/news/2019/08/415181/students-who-are-first-their-family-attend-college-share-stories-experiences)
 
 
-<br/><br/>Last updated: Aug 04, 2022
+<br/><br/>
+<p><small>&mdash; Last updated: Aug 04, 2022</small></p>
