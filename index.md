@@ -6,9 +6,11 @@ title: Victoria Cheung, PhD
 Bioinformatician | Computational Biologist
 
 <div id="webaddress">
-<a href="mailto:victoriakcheung@gmail.com"><i class="fas fa-envelope"></i> victoriakcheung[at]gmail[dot]com</a>
+<a href="mailto:victoriakcheung@gmail.com"><i class="fa-thin fa-circle-envelope"></i> victoriakcheung[at]gmail[dot]com</a>
 | <a href="https://www.linkedin.com/in/victoriacheung"><i class="fab fa-linkedin"></i> linked-in</a>
-| <a href="https://scholar.google.com/citations?user=8DJJyEIAAAAJ&hl=en&authuser=1"><i class="fas fa-graduation-cap"></i> google scholar</a>
+| <a href="https://scholar.google.com/citations?user=8DJJyEIAAAAJ&hl=en&authuser=1"><i class="fa-thin fa-user-graduate"></i> google scholar</a>
+| <a href="https://vic-cheung.github.io/"><i class="fa-thin fa-laptop-code"></i> website</a>
+| <a href="https://github.com/vic-cheung"><i class="fa-thin fa-code-merge"></i> website</a>
 </div>
 
 ## Education
