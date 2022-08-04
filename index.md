@@ -41,7 +41,7 @@ Vision: _Linking Circuits, Perception, and Behavior_
 
 ### Career-related
 
-`APR 2021 - Present`
+`APR 2022 - Present`
 *[Freenome](https://www.freenome.com/about-f)*<br>
 __Computational Biologist__<br>
 -Apply bioinformatics, data science, and computational methods to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes, and generate new insights and interpretations.<br>
