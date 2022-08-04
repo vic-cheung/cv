@@ -14,6 +14,7 @@ Computational Biologist | Health Data Scientist
 | <a href="https://scholar.google.com/citations?user=8DJJyEIAAAAJ&hl=en&authuser=1"><i class="fas fa-thin fa-user-graduate"></i> google scholar</a>
 | <a href="https://vic-cheung.github.io/"><i class="fab fa-github-alt"></i> website</a>
 | <a href="https://github.com/vic-cheung"><i class="fab fa-github"></i> github</a>
+| <a href="https://twitter.com/victoriakcheung"><i class="fab fa-twitter"></i> twitter</a>
 </div>
 
 ## Education
