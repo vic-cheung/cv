@@ -38,15 +38,15 @@ Vision: _Linking Circuits, Perception, and Behavior_
 `APR 2021 - Present`
 *[Freenome](https://www.freenome.com/about-f)*<br>
 __Computational Biologist__<br>
-- Apply bioinformatics, data science, and computational methods to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes.<br>
-  - Generate new insights and interpretations.<br>
-  - Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.<br>
-- Partner cross-functionally in the scientific planning and execution of collaborative projects, such as molecular and cancer biologists, immunologists, computational biologists, medical affairs, commercial, business development.<br>
-- Execute research projects to model various biological changes resulting from diseases such as cancer, autoimmune disease, and infection with various business partners.<br>
+-Apply bioinformatics, data science, and computational methods to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes.<br>
+  - -Generate new insights and interpretations.<br>
+  - -Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.<br>
+-Partner cross-functionally in the scientific planning and execution of collaborative projects, such as molecular and cancer biologists, immunologists, computational biologists, medical affairs, commercial, business development.<br>
+-Execute research projects to model various biological changes resulting from diseases such as cancer, autoimmune disease, and infection with various business partners.<br>
 
 ___Technologies used:___<br>
- - Python (ScanPy, NumPy, Pandas, scikit-learn, Matplotlib, SciPy, Freenome proprietary software)
- - R (fgsea, Seurat)<br>
+-Python (ScanPy, NumPy, Pandas, scikit-learn, Matplotlib, SciPy, Freenome proprietary software)
+-R (fgsea, Seurat)<br>
 
 <br><br>
 
