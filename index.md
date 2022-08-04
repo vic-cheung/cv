@@ -271,7 +271,7 @@ SACNAS National Conference | __Presenter__, _poster presentation_
 `2013`
 UCSD STARS Summer Research Conference | __Presenter__, _15 min talk_
 
-### Diversity and Outreach
+### Diversity & Outreach
 
 `2022`
 SRTP Co-Curriculum: What Can You Do With a PhD? | __Panelist__ (1hr)
@@ -282,7 +282,7 @@ Northern California Forum for Diversity in Graduate Education | __Panelist__ (1h
 `2018`
 Northern California Forum for Diversity in Graduate Education | __Panelist__ (1hr)
 
-## Honors and Awards
+## Honors & Awards
 `2022` UCSF Diversity Graduation, Graduate Division Speaker
 
 `2017` Helmsley Scholar
