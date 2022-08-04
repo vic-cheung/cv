@@ -222,7 +222,7 @@ __Cheung, V.__, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg
 __Cheung, V.__ "[Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)" Towards Data Science. Medium, 20 Jun. 2020. Web.<br>
 
 
-## Conferences
+## Conferences & Talks
 
 ### Scientific
 
@@ -273,11 +273,14 @@ UCSD STARS Summer Research Conference | __Presenter__, _15 min talk_
 
 ### Diversity and Outreach
 
+`2022`
+SRTP Co-Curriculum: What Can You Do With a PhD? | __Panelist__ (1hr)
+
 `2019`
-Northern California Forum for Diversity in Graduate Education | __Speaker__ (1hr)
+Northern California Forum for Diversity in Graduate Education | __Panelist__ (1hr)
 
 `2018`
-Northern California Forum for Diversity in Graduate Education | __Speaker__ (1hr)
+Northern California Forum for Diversity in Graduate Education | __Panelist__ (1hr)
 
 ## Honors and Awards
 `2022` UCSF Diversity Graduation, Graduate Division Speaker
