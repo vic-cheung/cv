@@ -35,12 +35,28 @@ Vision: _Linking Circuits, Perception, and Behavior_
 
 ### Career-related
 
+`APR 2021 - Present`
+*[Freenome](https://www.freenome.com/about-f)*<br>
+__Computational Biologist__<br>
+- Apply bioinformatics, data science, and computational methods to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes.<br>
+  - Generate new insights and interpretations.<br>
+  - Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.<br>
+- Partner cross-functionally in the scientific planning and execution of collaborative projects, such as molecular and cancer biologists, immunologists, computational biologists, medical affairs, commercial, business development.<br>
+- Execute research projects to model various biological changes resulting from diseases such as cancer, autoimmune disease, and infection with various business partners.<br>
+
+___Technologies used:___<br>
+ - Python (ScanPy, NumPy, Pandas, scikit-learn, Matplotlib, SciPy, Freenome proprietary software)
+ - R (fgsea, Seurat)<br>
+
+<br><br>
+
 `SEP 2021 - Present`
 *[Genentech](https://www.gene.com/)*<br>
 __Oncology Bioinformatics & Molecular Oncology PhD Intern__<br>
 -Characterized gene signature development and refinement for T cell signaling pathways in cancer models<br>
 -Wrote a data processing pipeline utilizing Scanpy, Numpy, Pandas, scikit-learn.<br>
--Performed statistical analyses on different drug treatment populations (gene set enrichment analysis, differential gene expression analysis).<br> -Utilized supervised batch correction techniques and unsupervised clustering algorithms (UMAP, topic modeling) to visualize and analyze single cell RNA seq data outputs.<br>
+-Performed statistical analyses on different drug treatment populations (gene set enrichment analysis, differential gene expression analysis).<br> 
+-Utilized supervised batch correction techniques and unsupervised clustering algorithms (UMAP, topic modeling) to visualize and analyze single cell RNA seq data outputs.<br>
 -Wrote custom plotting functions using Matplotlib to better visualize the effect of drug treatments.<br>
 
 ___Technologies used:___<br>
@@ -296,4 +312,4 @@ __UCSF Poster__, [First Generation to College](https://docs.google.com/viewer?ur
 __UCSF Article__, [Students Who Are First in Their Family to Attend College Share Stories, Experiences](https://www.ucsf.edu/news/2019/08/415181/students-who-are-first-their-family-attend-college-share-stories-experiences)
 
 
-<br/><br/>Last updated: Feb 22, 2022
+<br/><br/>Last updated: Aug 04, 2022
