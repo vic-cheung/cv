@@ -7,10 +7,13 @@ Computational Biologist | Health Data Scientist
 
 <div id="webaddress">
 <a href="mailto:victoriakcheung@gmail.com"><i class="fas fa-regular fa-envelope"></i> victoriakcheung[at]gmail[dot]com</a>
-| <a href="https://www.linkedin.com/in/victoriacheung"><i class="fab fa-linkedin"></i> linked-in</a>
+</div>
+
+<div id="webaddress">
+<a href="https://www.linkedin.com/in/victoriacheung"><i class="fab fa-linkedin"></i> linked-in</a>
 | <a href="https://scholar.google.com/citations?user=8DJJyEIAAAAJ&hl=en&authuser=1"><i class="fas fa-thin fa-user-graduate"></i> google scholar</a>
 | <a href="https://vic-cheung.github.io/"><i class="fas fa-regular fa-user"></i> website</a>
-| <a href="https://github.com/vic-cheung"><i class="fas fa-solid fa-code-merge"></i> github</a>
+| <a href="https://github.com/vic-cheung"><i class="fas fa-solid fa-code-branch"></i> github</a>
 </div>
 
 ## Education
