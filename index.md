@@ -44,7 +44,7 @@ __Computational Biologist__<br>
 -Execute research projects to model various biological changes resulting from diseases such as cancer, autoimmune disease, and infection with various business partners.<br>
 
 ___Technologies used:___<br>
--Python (ScanPy, NumPy, Pandas, scikit-learn, Matplotlib, SciPy, Freenome proprietary software)
+-Python (ScanPy, NumPy, Pandas, scikit-learn, Matplotlib, SciPy, Freenome proprietary software)<br>
 -R (fgsea, Seurat)<br>
 
 <br><br>
