@@ -2,7 +2,7 @@
 layout: cv
 title: Victoria Cheung, PhD
 ---
-# Victoria Cheung, PhD
+# Victoria Cheung
 Computational Biologist | Health Data Scientist
 
 <div id="webaddress">
