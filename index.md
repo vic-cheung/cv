@@ -222,7 +222,9 @@ __UC Leadership Through Advanced Degrees Scholar (UCLEADS)__,
 
 ## Publications
 
-__Cheung, V.__, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg, E.H. (2021) [Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01627-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124721016272%3Fshowall%3Dtrue) Cell Reports, 37(12):110131<br>
+__Cheung, V.__, Chung, P., and Feinberg, E.H. (2022) [Transcriptional profiling of mouse projection neurons with VECTORseq](https://doi.org/10.1016/j.xpro.2022.101625) STAR Protocols, 3(3):101625<br>
+
+__Cheung, V.__, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg, E.H. (2021) [Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.](https://doi.org/10.1016/j.celrep.2021.110131) Cell Reports, 37(12):110131<br>
 
 __Cheung, V.__ "[Predicting Acute Kidney Injury in Hospitalized Patients Using Machine Learning](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67)" Towards Data Science. Medium, 20 Jun. 2020. Web.<br>
 
@@ -321,4 +323,4 @@ __UCSF Article__, [Students Who Are First in Their Family to Attend College Shar
 
 
 <br/><br/>
-<p><small>&mdash; Last updated: Aug 04, 2022</small></p>
+<p><small>&mdash; Last updated: Sep 20, 2022</small></p>
