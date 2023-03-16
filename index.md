@@ -43,11 +43,14 @@ Vision: _Linking Circuits, Perception, and Behavior_
 
 `APR 2022 - Present`
 *[Freenome](https://www.freenome.com/about-f)*<br>
-__Computational Biologist__<br>
--Apply bioinformatics, data science, and computational methods to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes, and generate new insights and interpretations.<br>
--Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.<br>
--Partner cross-functionally in the scientific planning and execution of collaborative projects, such as molecular and cancer biologists, immunologists, computational biologists, medical affairs, commercial, business development.<br>
--Execute research projects to model various biological changes resulting from diseases such as cancer, autoimmune disease, and infection with various business partners.<br>
+__Computational Biologist, Translational Science__<br>
+- Apply bioinformatics, data science, and computational methods (including AI/ML techniques) to analyze multi-omic data to reveal, model, and interpret changes in both the cancer (pathways, gene activities, proteins) and the immune system (composition, activity, and repertoires) associated with clinical outcomes.<br>
+  - Generate new insights and interpretations.<br>
+  - Leverage existing computational methods and develop new ones to extract immunological signals from existing and new data.<br>
+- Partner cross-functionally in the scientific planning and execution of collaborative projects, such as molecular and cancer biologists, immunologists, computational biologists, medical affairs, commercial, business development.<br>
+- Execute research projects to model various biological changes resulting from diseases such as cancer, autoimmune disease, and infection with various business partners.<br>
+- Developed a software package for reproducible data analysis for the team.<br>
+- Wrote distributed workflows (Flyte) to increase efficiency of scRNAseq alignment and data aggregation from a scale of running for 8 days to half a day.<br>
 
 ___Technologies used:___<br>
 -Python (ScanPy, NumPy, Pandas, scikit-learn, Matplotlib, SciPy, Freenome proprietary software)<br>
@@ -55,7 +58,7 @@ ___Technologies used:___<br>
 
 <br><br>
 
-`SEP 2021 - Present`
+`SEP 2021 - APR 2022`
 *[Genentech](https://www.gene.com/)*<br>
 __Oncology Bioinformatics & Molecular Oncology PhD Intern__<br>
 -Characterized gene signature development and refinement for T cell signaling pathways in cancer models<br>
@@ -222,6 +225,8 @@ __UC Leadership Through Advanced Degrees Scholar (UCLEADS)__,
 
 ## Publications
 
+Vallania, F., __Cheung, V.__, Zamba, MD., Liu, J., Pasupathy, A., Donnella, H., Bailey, M., Louie, M., Lin, J., Havenith, K., Qin, Y., Pantano, S., Wuerthner, J., van Berkel, PH.; [Identification of Predictive Biomarkers for Response of R/R DLBCL Patients Treated with Loncastuximab Tesirine Using Low Pass Whole-Genome Sequencing (WGS).](https://ash.confex.com/ash/2022/webprogram/Paper168993.html) Blood 2022; 140 (Supplement 1): 3551–3552. doi: https://doi.org/10.1182/blood-2022-168993
+
 __Cheung, V.__, Chung, P., and Feinberg, E.H. (2022) [Transcriptional profiling of mouse projection neurons with VECTORseq](https://doi.org/10.1016/j.xpro.2022.101625) STAR Protocols, 3(3):101625<br>
 
 __Cheung, V.__, Chung, P., Bjorni, M., Shvareva, V.A., Lopez, Y.C., and Feinberg, E.H. (2021) [Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.](https://doi.org/10.1016/j.celrep.2021.110131) Cell Reports, 37(12):110131<br>
@@ -232,6 +237,12 @@ __Cheung, V.__ "[Predicting Acute Kidney Injury in Hospitalized Patients Using M
 ## Conferences & Talks
 
 ### Scientific
+
+`2023`
+American Association for Cancer Research (AACR) | __Presenter__
+
+`2022`
+American Society of Hematology (ASH) | __Presenter__
 
 `2021`
 UCSF S.O.L.V.E. Health Tech: Digital Health Equity Summit | __Attendee__
@@ -323,4 +334,4 @@ __UCSF Article__, [Students Who Are First in Their Family to Attend College Shar
 
 
 <br/><br/>
-<p><small>&mdash; Last updated: Sep 20, 2022</small></p>
+<p><small>&mdash; Last updated: Mar 14, 2023</small></p>
