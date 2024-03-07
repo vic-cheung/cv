@@ -19,21 +19,17 @@ Computational Biologist | Health Data Scientist
 
 ## Education
 
-`2015-2021`
 (__UCSF__) University of California, San Francisco,
 __Ph.D.__ Genetics; concentration in Neuroscience
 
-`2011-2015`
 (__UCSD__) University of California, San Diego,
 __B.S.__ Microbiology; minor: Chinese Studies
 
 ## Additional Courses
 
-`2021`
 __Genentech L.E.A.D Discovery Program__,
 Certification. Supply Chain Management
 
-`2017`
 __Cold Spring Harbor Laboratory__,
 Vision: _Linking Circuits, Perception, and Behavior_
 
@@ -80,7 +76,7 @@ ___Technologies used:___<br>
 
 <br><br>
 
-`JUL 2016 - DEC 2021`
+`JUL 2016 - SEP 2021`
 *[Evan Feinberg Lab](http://www.evanfeinberglab.com/who-we-are) @ [UCSF](https://tetrad.ucsf.edu/)*<br>
 __Graduate Resarcher in Single-cell Omics, Systems Neuroscience__<br>
 __Project 1__<br>
